@@ -1,0 +1,1377 @@
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-27T10:51:31.156Z"}
+{"level":"info","message":"Client connected: s5I3pQIQjaDj2YjdAAAB","timestamp":"2025-05-27T10:52:31.926Z"}
+{"level":"info","message":"Client s5I3pQIQjaDj2YjdAAAB joined order 12345","timestamp":"2025-05-27T10:52:32.532Z"}
+{"coords":{"latitude":17.5864053,"longitude":78.4011817},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T10:53:12.538Z"}
+{"coords":{"latitude":17.5864044,"longitude":78.4011816},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T10:56:13.395Z"}
+{"level":"info","message":"Client connected: MJsxZ-BbnMEokLnRAAAD","timestamp":"2025-05-27T11:02:44.013Z"}
+{"level":"info","message":"Client MJsxZ-BbnMEokLnRAAAD joined order 12345","timestamp":"2025-05-27T11:02:44.742Z"}
+{"coords":{"latitude":17.586401,"longitude":78.4011866},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:02:55.583Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:03:10.468Z"}
+{"coords":{"latitude":17.5864038,"longitude":78.4011809},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:03:11.207Z"}
+{"coords":{"latitude":17.586399,"longitude":78.4011826},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:03:18.431Z"}
+{"coords":{"latitude":17.586401,"longitude":78.4011866},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:03:25.484Z"}
+{"coords":{"latitude":17.5864063,"longitude":78.4011836},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:03:28.643Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:03:40.562Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:03:55.464Z"}
+{"coords":{"latitude":17.5863951,"longitude":78.4011805},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:03:58.703Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:04:10.462Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:04:25.781Z"}
+{"coords":{"latitude":17.5864039,"longitude":78.4011815},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:04:37.204Z"}
+{"coords":{"latitude":17.5864039,"longitude":78.4011815},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:04:39.062Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:04:40.986Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:04:56.192Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:05:11.182Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:05:26.322Z"}
+{"level":"info","message":"Client disconnected: MJsxZ-BbnMEokLnRAAAD","timestamp":"2025-05-27T11:05:36.691Z"}
+{"level":"info","message":"Client connected: wavU4gY3scvg77tUAAAF","timestamp":"2025-05-27T11:05:40.634Z"}
+{"level":"info","message":"Client wavU4gY3scvg77tUAAAF joined order 12345","timestamp":"2025-05-27T11:05:41.108Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:05:41.408Z"}
+{"coords":{"latitude":17.5864038,"longitude":78.4011811},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:05:42.527Z"}
+{"coords":{"latitude":17.5864006,"longitude":78.4011864},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:05:54.883Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:05:55.707Z"}
+{"level":"info","message":"Client disconnected: s5I3pQIQjaDj2YjdAAAB","timestamp":"2025-05-27T11:05:58.188Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:06:11.065Z"}
+{"level":"info","message":"Client connected: -MNPK3-n7wKGZD30AAAH","timestamp":"2025-05-27T11:06:17.559Z"}
+{"level":"info","message":"Client -MNPK3-n7wKGZD30AAAH joined order 12345","timestamp":"2025-05-27T11:06:17.995Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011856},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:06:30.700Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:06:36.047Z"}
+{"coords":{"latitude":17.5864049,"longitude":78.4011795},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:06:37.826Z"}
+{"coords":{"latitude":17.586406,"longitude":78.4011812},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:06:47.879Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:06:51.108Z"}
+{"coords":{"latitude":17.5864062,"longitude":78.4011836},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:06:53.322Z"}
+{"coords":{"latitude":17.5864062,"longitude":78.4011836},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:06:57.929Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:07:06.257Z"}
+{"coords":{"latitude":17.5864031,"longitude":78.4011753},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:07:07.946Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011766},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:07:17.974Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:07:20.915Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011772},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:07:27.982Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:07:36.348Z"}
+{"coords":{"latitude":17.5864037,"longitude":78.4011772},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:07:38.022Z"}
+{"coords":{"latitude":17.5864073,"longitude":78.4011754},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:07:48.046Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:07:51.438Z"}
+{"level":"info","message":"Client connected: eIHCSSchD-8ByeZfAAAJ","timestamp":"2025-05-27T11:07:57.779Z"}
+{"coords":{"latitude":17.5864066,"longitude":78.4011825},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:07:58.034Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:08:06.558Z"}
+{"level":"info","message":"Client connected: 2mIF7pDZ1nYrlHUHAAAL","timestamp":"2025-05-27T11:08:16.231Z"}
+{"level":"info","message":"Client 2mIF7pDZ1nYrlHUHAAAL joined order 12345","timestamp":"2025-05-27T11:08:16.522Z"}
+{"coords":{"latitude":17.5864041,"longitude":78.4011806},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:08:16.971Z"}
+{"coords":{"latitude":17.5864041,"longitude":78.4011806},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:08:18.102Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:08:21.830Z"}
+{"coords":{"latitude":17.5864049,"longitude":78.4011792},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:08:28.116Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:08:36.648Z"}
+{"coords":{"latitude":17.5864043,"longitude":78.4011817},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:08:38.196Z"}
+{"coords":{"latitude":17.5864045,"longitude":78.4011797},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:08:48.198Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:08:51.931Z"}
+{"coords":{"latitude":17.5864043,"longitude":78.40118},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:08:58.224Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:09:07.408Z"}
+{"coords":{"latitude":17.5864041,"longitude":78.4011794},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:09:08.242Z"}
+{"coords":{"latitude":17.5863967,"longitude":78.4011828},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:09:18.330Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:09:22.142Z"}
+{"coords":{"latitude":17.5864058,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:09:26.721Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:09:37.066Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:09:52.130Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:10:07.087Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:10:22.567Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:10:37.609Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:10:52.769Z"}
+{"coords":{"latitude":17.5864049,"longitude":78.4011809},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:10:58.885Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:11:07.816Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:11:22.655Z"}
+{"coords":{"latitude":17.5863968,"longitude":78.4011792},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:11:28.997Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:11:37.907Z"}
+{"coords":{"latitude":17.5864035,"longitude":78.4011778},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:11:39.040Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011759},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:11:49.110Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:11:53.167Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:12:07.827Z"}
+{"coords":{"latitude":17.5864029,"longitude":78.4011759},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:12:09.435Z"}
+{"coords":{"latitude":17.5864042,"longitude":78.4011814},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:12:20.530Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:12:22.853Z"}
+{"level":"info","message":"Client disconnected: 2mIF7pDZ1nYrlHUHAAAL","timestamp":"2025-05-27T11:12:32.634Z"}
+{"level":"info","message":"Client disconnected: eIHCSSchD-8ByeZfAAAJ","timestamp":"2025-05-27T11:12:32.639Z"}
+{"level":"info","message":"Client disconnected: -MNPK3-n7wKGZD30AAAH","timestamp":"2025-05-27T11:12:32.644Z"}
+{"level":"info","message":"Client disconnected: wavU4gY3scvg77tUAAAF","timestamp":"2025-05-27T11:12:33.069Z"}
+{"level":"info","message":"Client connected: 3Eahv5GDy5vdNAsbAAAN","timestamp":"2025-05-27T11:12:36.169Z"}
+{"level":"info","message":"Client 3Eahv5GDy5vdNAsbAAAN joined order 12345","timestamp":"2025-05-27T11:12:37.428Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:12:38.425Z"}
+{"level":"info","message":"Client connected: vNvj7VJUMNBzfG_oAAAP","timestamp":"2025-05-27T11:12:43.743Z"}
+{"level":"info","message":"Client vNvj7VJUMNBzfG_oAAAP joined order 12345","timestamp":"2025-05-27T11:12:44.248Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:12:52.360Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:13:07.904Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011843},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:13:20.529Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:13:22.959Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:13:37.815Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:13:52.853Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:14:08.172Z"}
+{"coords":{"latitude":17.5863945,"longitude":78.4011781},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:14:10.676Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:14:22.951Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:14:37.536Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:14:53.250Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:15:08.131Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:15:23.296Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:15:38.284Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:15:53.296Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:16:08.540Z"}
+{"level":"info","message":"Client connected: xSG5IwkJokH2GoaoAAAR","timestamp":"2025-05-27T11:16:29.283Z"}
+{"level":"info","message":"Client xSG5IwkJokH2GoaoAAAR joined order 12345","timestamp":"2025-05-27T11:16:29.713Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:16:38.701Z"}
+{"level":"info","message":"Client disconnected: 3Eahv5GDy5vdNAsbAAAN","timestamp":"2025-05-27T11:16:43.917Z"}
+{"level":"info","message":"Client connected: KXeUiMrArPF4OJdGAAAT","timestamp":"2025-05-27T11:17:00.146Z"}
+{"level":"info","message":"Client KXeUiMrArPF4OJdGAAAT joined order 12345","timestamp":"2025-05-27T11:17:00.805Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:17:08.827Z"}
+{"level":"info","message":"Client disconnected: xSG5IwkJokH2GoaoAAAR","timestamp":"2025-05-27T11:17:13.891Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:17:23.767Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:17:38.945Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:17:53.860Z"}
+{"coords":{"latitude":17.5864033,"longitude":78.401181},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:18:06.669Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:18:09.383Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:18:24.386Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:18:39.201Z"}
+{"coords":{"latitude":17.586401,"longitude":78.4011866},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:18:54.485Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:19:09.424Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:19:24.648Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:19:39.540Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:19:54.366Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:20:09.842Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:20:25.101Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:20:40.103Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:20:55.385Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:21:10.240Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:21:25.418Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:21:40.395Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:21:55.551Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:22:10.704Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:22:25.624Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:22:40.606Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:22:55.879Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:23:11.018Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:23:26.032Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:23:41.104Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:23:56.260Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:24:11.320Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:24:26.443Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:24:41.418Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:24:56.770Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:25:11.681Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:25:26.903Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:25:41.918Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:25:56.896Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:26:11.939Z"}
+{"coords":{"latitude":17.586401,"longitude":78.4011866},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:26:27.089Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:26:42.024Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:26:57.388Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:27:12.583Z"}
+{"coords":{"latitude":17.586401,"longitude":78.4011866},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:27:27.426Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:27:42.480Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:27:57.551Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:28:12.664Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:28:27.825Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:28:42.988Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:28:58.142Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:29:12.874Z"}
+{"coords":{"latitude":17.586399,"longitude":78.4011855},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:29:28.119Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011854},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-27T11:29:44.097Z"}
+{"level":"info","message":"Client disconnected: KXeUiMrArPF4OJdGAAAT","timestamp":"2025-05-27T11:31:34.034Z"}
+{"coords":{"latitude":17.5864004,"longitude":78.4011879},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:35:56.173Z"}
+{"coords":{"latitude":17.586403,"longitude":78.4011831},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:39:57.183Z"}
+{"coords":{"latitude":17.5864013,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:40:07.202Z"}
+{"coords":{"latitude":17.5864002,"longitude":78.4011899},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:41:07.644Z"}
+{"coords":{"latitude":17.586404,"longitude":78.4011825},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:42:07.973Z"}
+{"coords":{"latitude":17.586404,"longitude":78.4011822},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:44:48.428Z"}
+{"coords":{"latitude":17.5864053,"longitude":78.4011866},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:47:49.353Z"}
+{"coords":{"latitude":17.5864023,"longitude":78.4011821},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-27T11:55:13.076Z"}
+{"level":"info","message":"Client disconnected: vNvj7VJUMNBzfG_oAAAP","timestamp":"2025-05-27T11:55:46.562Z"}
+{"level":"info","message":"Client connected: fXgeoaKZX_HfWHjVAAAV","timestamp":"2025-05-27T11:56:21.060Z"}
+{"level":"info","message":"Client fXgeoaKZX_HfWHjVAAAV joined order 12345","timestamp":"2025-05-27T11:56:22.140Z"}
+{"level":"info","message":"Client connected: kUQTCriW3q-UeE8aAAAX","timestamp":"2025-05-27T11:56:38.403Z"}
+{"level":"info","message":"Client kUQTCriW3q-UeE8aAAAX joined order 12345","timestamp":"2025-05-27T11:56:39.358Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-28T04:39:54.808Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-28T05:23:04.353Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-28T10:54:08.520Z"}
+{"level":"info","message":"Client connected: PeiJcEMsahy4FJMiAAAB","timestamp":"2025-05-28T10:57:01.351Z"}
+{"level":"info","message":"Client PeiJcEMsahy4FJMiAAAB joined order 12345","timestamp":"2025-05-28T10:57:01.972Z"}
+{"level":"info","message":"Client connected: kUG0T4WJjdpmmkRRAAAD","timestamp":"2025-05-28T10:57:41.498Z"}
+{"level":"info","message":"Client kUG0T4WJjdpmmkRRAAAD joined order 12345","timestamp":"2025-05-28T10:57:42.389Z"}
+{"coords":{"latitude":17.5864046,"longitude":78.4011797},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:57:48.272Z"}
+{"coords":{"latitude":17.5864016,"longitude":78.4011862},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:58:01.404Z"}
+{"coords":{"latitude":17.5863989,"longitude":78.4011853},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:58:16.152Z"}
+{"coords":{"latitude":17.5864019,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:58:31.552Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:58:46.462Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:59:01.564Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:59:16.767Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:59:31.516Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T10:59:47.037Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:00:02.235Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:00:17.187Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:00:32.195Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:00:47.275Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:01:02.682Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:01:17.744Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:01:32.718Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:01:47.904Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:02:03.102Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:02:18.207Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:02:33.411Z"}
+{"coords":{"latitude":17.5864016,"longitude":78.4011863},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:02:41.539Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:02:48.329Z"}
+{"coords":{"latitude":17.5864,"longitude":78.4011863},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:02:59.556Z"}
+{"level":"info","message":"Client connected: 1uf9tPAJJsZs06gnAAAF","timestamp":"2025-05-28T11:03:02.587Z"}
+{"level":"info","message":"Client 1uf9tPAJJsZs06gnAAAF joined order 12345","timestamp":"2025-05-28T11:03:03.135Z"}
+{"coords":{"latitude":17.5863966,"longitude":78.4011849},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:03:11.678Z"}
+{"level":"info","message":"Client connected: Ny9faWIWYXk7b4hNAAAH","timestamp":"2025-05-28T11:03:18.435Z"}
+{"level":"info","message":"Client Ny9faWIWYXk7b4hNAAAH joined order 12345","timestamp":"2025-05-28T11:03:18.817Z"}
+{"coords":{"latitude":17.5864039,"longitude":78.4011831},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:03:18.932Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:03:25.149Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:03:39.885Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:03:55.050Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-28T11:03:56.983Z"}
+{"level":"info","message":"Client connected: fX50mn_9ip-fag9CAAAB","timestamp":"2025-05-28T11:03:57.318Z"}
+{"level":"info","message":"Client fX50mn_9ip-fag9CAAAB joined order 12345","timestamp":"2025-05-28T11:03:57.499Z"}
+{"level":"info","message":"Client connected: Qykhl-xnsPUG0tTdAAAE","timestamp":"2025-05-28T11:03:57.756Z"}
+{"level":"info","message":"Client connected: lzyiqLRf47VLeD5_AAAF","timestamp":"2025-05-28T11:03:57.806Z"}
+{"level":"info","message":"Client Qykhl-xnsPUG0tTdAAAE joined order 12345","timestamp":"2025-05-28T11:03:58.097Z"}
+{"level":"info","message":"Client connected: m8JrH0PFAyJg__y-AAAH","timestamp":"2025-05-28T11:03:58.600Z"}
+{"level":"info","message":"Client disconnected: m8JrH0PFAyJg__y-AAAH","timestamp":"2025-05-28T11:04:02.062Z"}
+{"level":"info","message":"Client disconnected: Qykhl-xnsPUG0tTdAAAE","timestamp":"2025-05-28T11:04:02.063Z"}
+{"level":"info","message":"Client disconnected: lzyiqLRf47VLeD5_AAAF","timestamp":"2025-05-28T11:04:02.681Z"}
+{"level":"info","message":"Client disconnected: fX50mn_9ip-fag9CAAAB","timestamp":"2025-05-28T11:04:02.689Z"}
+{"level":"info","message":"Client connected: 01pgBEhsb2t-3xZAAAAJ","timestamp":"2025-05-28T11:04:06.251Z"}
+{"level":"info","message":"Client 01pgBEhsb2t-3xZAAAAJ joined order 12345","timestamp":"2025-05-28T11:04:06.685Z"}
+{"level":"info","message":"Client connected: uL-c2t7ani5HlHkxAAAL","timestamp":"2025-05-28T11:04:07.010Z"}
+{"level":"info","message":"Client uL-c2t7ani5HlHkxAAAL joined order 12345","timestamp":"2025-05-28T11:04:07.396Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-28T11:04:24.734Z"}
+{"level":"info","message":"Order 12345 placed and assigned","timestamp":"2025-05-28T11:04:24.734Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:04:25.203Z"}
+{"coords":{"latitude":17.5864027,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:04:34.800Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:04:40.346Z"}
+{"coords":{"latitude":17.5864017,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:04:49.805Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:04:55.214Z"}
+{"coords":{"latitude":17.5864027,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:04.936Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:10.462Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:20.088Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:25.598Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:35.054Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:40.608Z"}
+{"coords":{"latitude":17.5864023,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:50.199Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:05:55.633Z"}
+{"coords":{"latitude":17.5864027,"longitude":78.4011855},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:05.349Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:11.083Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:20.414Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011854},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:26.105Z"}
+{"coords":{"latitude":17.586403,"longitude":78.4011852},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:35.505Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:41.239Z"}
+{"coords":{"latitude":17.5864023,"longitude":78.4011859},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:50.609Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:06:56.094Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:05.714Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:11.247Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:20.871Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:26.401Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:35.969Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:41.544Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:51.098Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:07:56.695Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:06.189Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:11.456Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:21.305Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:26.930Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:36.410Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:42.186Z"}
+{"coords":{"latitude":17.5864014,"longitude":78.4011864},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:51.523Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:08:57.149Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:09:06.615Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:09:11.837Z"}
+{"coords":{"latitude":17.5864016,"longitude":78.4011866},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:09:13.483Z"}
+{"level":"info","message":"Route updated for order 12345: 1 nodes","timestamp":"2025-05-28T11:09:14.443Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:09:27.218Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:09:42.259Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:09:57.462Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:10:12.751Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:10:27.862Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:10:43.264Z"}
+{"coords":{"latitude":17.5863933,"longitude":78.4011751},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:10:57.649Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:10:58.242Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-28T11:11:09.085Z"}
+{"level":"info","message":"Client connected: tAP9iKBrDO4ZSvIOAAAB","timestamp":"2025-05-28T11:11:10.105Z"}
+{"level":"info","message":"Client connected: -oenNpPiAHUND3J_AAAD","timestamp":"2025-05-28T11:11:10.435Z"}
+{"level":"info","message":"Client tAP9iKBrDO4ZSvIOAAAB joined order 12345","timestamp":"2025-05-28T11:11:10.832Z"}
+{"level":"info","message":"Client -oenNpPiAHUND3J_AAAD joined order 12345","timestamp":"2025-05-28T11:11:10.949Z"}
+{"level":"info","message":"Client disconnected: -oenNpPiAHUND3J_AAAD","timestamp":"2025-05-28T11:11:12.654Z"}
+{"level":"info","message":"Client disconnected: tAP9iKBrDO4ZSvIOAAAB","timestamp":"2025-05-28T11:11:13.737Z"}
+{"level":"info","message":"Client connected: LzlZABY38Wgkmu5PAAAF","timestamp":"2025-05-28T11:11:15.880Z"}
+{"level":"info","message":"Client LzlZABY38Wgkmu5PAAAF joined order 12345","timestamp":"2025-05-28T11:11:16.259Z"}
+{"level":"info","message":"Client connected: VMGKCBzCb3iGPBi6AAAH","timestamp":"2025-05-28T11:11:16.658Z"}
+{"level":"info","message":"Client VMGKCBzCb3iGPBi6AAAH joined order 12345","timestamp":"2025-05-28T11:11:17.014Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-28T11:13:48.989Z"}
+{"level":"info","message":"Client connected: yORtJEold1cx_D0CAAAB","timestamp":"2025-05-28T11:13:55.083Z"}
+{"level":"info","message":"Client yORtJEold1cx_D0CAAAB joined order 12345","timestamp":"2025-05-28T11:13:55.417Z"}
+{"level":"info","message":"Client connected: zRPv65LNDs56XcuZAAAD","timestamp":"2025-05-28T11:13:56.176Z"}
+{"level":"info","message":"Client zRPv65LNDs56XcuZAAAD joined order 12345","timestamp":"2025-05-28T11:13:56.680Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864024,\"longitude\":78.4011857}","timestamp":"2025-05-28T11:14:12.777Z"}
+{"level":"info","message":"Fetching road network for bbox: 12.955,77.58,17.6064024,78.4211857","timestamp":"2025-05-28T11:14:12.779Z"}
+{"level":"info","message":"Fetched 217 nodes and 6 ways","timestamp":"2025-05-28T11:14:13.895Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":12.975,\"longitude\":77.6}, end: {\"latitude\":17.5864024,\"longitude\":78.4011857}","timestamp":"2025-05-28T11:14:13.895Z"}
+{"level":"warn","message":"Path reconstruction exceeded max iterations","timestamp":"2025-05-28T11:14:13.899Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-28T11:14:13.900Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp3","timestamp":"2025-05-28T11:14:13.900Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:14:14.076Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:14:23.837Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:14:29.590Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:14:39.048Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:14:44.712Z"}
+{"coords":{"latitude":17.5864016,"longitude":78.4011862},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:14:53.987Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:14:59.681Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:15:09.130Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:15:14.699Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011855},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:15:24.236Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:15:29.667Z"}
+{"coords":{"latitude":17.5864023,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:15:39.367Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:15:45.013Z"}
+{"coords":{"latitude":17.5863957,"longitude":78.4011848},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:15:52.859Z"}
+{"level":"info","message":"Fetching road network for bbox: 17.5663957,78.3811848,17.6064024,78.4211857","timestamp":"2025-05-28T11:15:52.860Z"}
+{"level":"info","message":"Fetched 9060 nodes and 1720 ways","timestamp":"2025-05-28T11:15:54.111Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.5863957,\"longitude\":78.4011848}, end: {\"latitude\":17.5864024,\"longitude\":78.4011857}","timestamp":"2025-05-28T11:15:54.112Z"}
+{"level":"warn","message":"Invalid current node in A*","timestamp":"2025-05-28T11:15:54.134Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-28T11:15:54.134Z"}
+{"coords":{"latitude":17.586397,"longitude":78.401189},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:15:54.588Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:16:00.299Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:16:15.227Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:16:30.488Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:16:45.346Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:17:00.677Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:17:15.415Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:17:30.887Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:17:45.759Z"}
+{"coords":{"latitude":17.5864045,"longitude":78.4011834},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:17:54.407Z"}
+{"coords":{"latitude":17.5864045,"longitude":78.4011834},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:17:55.167Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:18:00.885Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:18:16.144Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:18:31.204Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:18:46.241Z"}
+{"coords":{"latitude":17.5864066,"longitude":78.4011869},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:18:57.793Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:19:01.421Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:19:16.479Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:19:31.409Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:19:46.577Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:20:01.955Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:20:16.866Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:20:32.234Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:20:47.193Z"}
+{"coords":{"latitude":17.586401,"longitude":78.4011866},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:21:02.353Z"}
+{"coords":{"latitude":17.586401,"longitude":78.4011866},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:21:17.317Z"}
+{"coords":{"latitude":17.5864052,"longitude":78.4011816},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:21:22.030Z"}
+{"level":"info","message":"Client disconnected: zRPv65LNDs56XcuZAAAD","timestamp":"2025-05-28T11:21:25.953Z"}
+{"level":"info","message":"Client disconnected: yORtJEold1cx_D0CAAAB","timestamp":"2025-05-28T11:21:26.693Z"}
+{"level":"info","message":"Client connected: dnXSZs-ygMLSFVUaAAAF","timestamp":"2025-05-28T11:21:29.820Z"}
+{"level":"info","message":"Client dnXSZs-ygMLSFVUaAAAF joined order 12345","timestamp":"2025-05-28T11:21:30.282Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:21:32.860Z"}
+{"level":"info","message":"Client connected: dl7xKAgVPHiLBrbQAAAH","timestamp":"2025-05-28T11:21:43.194Z"}
+{"level":"info","message":"Client dl7xKAgVPHiLBrbQAAAH joined order 12345","timestamp":"2025-05-28T11:21:43.671Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:21:47.606Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:22:02.985Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:22:17.718Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:22:33.159Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:22:48.245Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:23:03.677Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011852},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:23:18.614Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011856},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:23:32.798Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:23:33.594Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:23:49.012Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:24:03.813Z"}
+{"coords":{"latitude":17.586405,"longitude":78.4011774},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:24:07.180Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:24:18.635Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:24:33.823Z"}
+{"coords":{"latitude":17.5864027,"longitude":78.4011855},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:24:49.072Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:25:04.362Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:25:19.704Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:25:34.565Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:25:49.487Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:26:04.159Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:26:04.636Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:26:19.499Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:26:34.757Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:26:49.812Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:27:05.052Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:27:14.521Z"}
+{"level":"info","message":"Client disconnected: dnXSZs-ygMLSFVUaAAAF","timestamp":"2025-05-28T11:27:17.146Z"}
+{"level":"info","message":"Client disconnected: dl7xKAgVPHiLBrbQAAAH","timestamp":"2025-05-28T11:27:17.602Z"}
+{"level":"info","message":"Client connected: zXLbaq5AhT1ohZSwAAAK","timestamp":"2025-05-28T11:27:20.908Z"}
+{"level":"info","message":"Client zXLbaq5AhT1ohZSwAAAK joined order 12345","timestamp":"2025-05-28T11:27:21.272Z"}
+{"level":"info","message":"Client connected: ACS73RFCHSuaY1VlAAAL","timestamp":"2025-05-28T11:27:21.365Z"}
+{"level":"info","message":"Client ACS73RFCHSuaY1VlAAAL joined order 12345","timestamp":"2025-05-28T11:27:21.780Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:27:29.556Z"}
+{"coords":{"latitude":17.5864015,"longitude":78.4011864},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:27:35.367Z"}
+{"coords":{"latitude":17.5864012,"longitude":78.4011866},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:27:44.597Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:27:50.235Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:28:05.688Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:28:20.447Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011858},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:28:35.632Z"}
+{"level":"info","message":"Client disconnected: ACS73RFCHSuaY1VlAAAL","timestamp":"2025-05-28T11:28:46.610Z"}
+{"coords":{"latitude":17.5864066,"longitude":78.4011869},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-28T11:28:46.810Z"}
+{"level":"info","message":"Client disconnected: zXLbaq5AhT1ohZSwAAAK","timestamp":"2025-05-28T11:28:47.414Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-28T11:28:49.077Z"}
+{"level":"info","message":"Client connected: KvOdVPboUsA_tBlxAAAC","timestamp":"2025-05-28T11:28:50.514Z"}
+{"level":"info","message":"Client KvOdVPboUsA_tBlxAAAC joined order 12345","timestamp":"2025-05-28T11:28:50.908Z"}
+{"level":"info","message":"Client disconnected: KvOdVPboUsA_tBlxAAAC","timestamp":"2025-05-28T11:28:51.048Z"}
+{"level":"info","message":"Client connected: XNj0UGSmN-hczhIzAAAE","timestamp":"2025-05-28T11:28:53.636Z"}
+{"level":"info","message":"Client connected: Nf9oBkGDGHeS5J99AAAG","timestamp":"2025-05-28T11:28:54.407Z"}
+{"level":"info","message":"Client XNj0UGSmN-hczhIzAAAE joined order 12345","timestamp":"2025-05-28T11:28:54.496Z"}
+{"level":"info","message":"Client Nf9oBkGDGHeS5J99AAAG joined order 12345","timestamp":"2025-05-28T11:28:54.765Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":7.586402199999998,\"longitude\":68.4011857}","timestamp":"2025-05-28T11:29:04.361Z"}
+{"level":"info","message":"Fetching road network for bbox: 7.566402199999999,68.3811857,12.985,77.61","timestamp":"2025-05-28T11:29:04.363Z"}
+{"level":"warn","message":"Empty road network returned","timestamp":"2025-05-28T11:29:05.114Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp2","timestamp":"2025-05-28T11:29:05.115Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:06.172Z"}
+{"level":"info","message":"Fetching road network for bbox: 12.945,77.57000000000001,17.606402199999998,78.4211857","timestamp":"2025-05-28T11:29:06.172Z"}
+{"level":"info","message":"Fetched 298 nodes and 12 ways","timestamp":"2025-05-28T11:29:06.802Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":12.965,\"longitude\":77.59}, end: {\"latitude\":17.5864022,\"longitude\":78.4011857}","timestamp":"2025-05-28T11:29:06.802Z"}
+{"level":"warn","message":"Path reconstruction exceeded max iterations","timestamp":"2025-05-28T11:29:06.808Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-28T11:29:06.809Z"}
+{"coords":{"latitude":17.5864023,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:15.544Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011861},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:21.347Z"}
+{"coords":{"latitude":17.5864017,"longitude":78.4011862},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:30.494Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:35.668Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:36.242Z"}
+{"coords":{"latitude":17.5864027,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:45.648Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:29:51.342Z"}
+{"coords":{"latitude":17.5864021,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:30:00.769Z"}
+{"coords":{"latitude":17.5864024,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:30:06.613Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:30:15.846Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-28T11:30:21.428Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T03:59:23.192Z"}
+{"level":"info","message":"Client connected: oXlthZXjPbWx6I00AAAB","timestamp":"2025-05-29T04:37:34.058Z"}
+{"level":"info","message":"Client oXlthZXjPbWx6I00AAAB joined order 12345","timestamp":"2025-05-29T04:37:34.471Z"}
+{"level":"info","message":"Client connected: ruQ0FO3N3uwME1AFAAAD","timestamp":"2025-05-29T04:39:28.137Z"}
+{"level":"info","message":"Client disconnected: oXlthZXjPbWx6I00AAAB","timestamp":"2025-05-29T04:39:43.112Z"}
+{"level":"info","message":"Client connected: QooGFx4-XLf1-Wa0AAAG","timestamp":"2025-05-29T04:39:46.035Z"}
+{"level":"info","message":"Client QooGFx4-XLf1-Wa0AAAG joined order 12345","timestamp":"2025-05-29T04:39:46.358Z"}
+{"level":"info","message":"Client disconnected: QooGFx4-XLf1-Wa0AAAG","timestamp":"2025-05-29T04:39:57.319Z"}
+{"level":"info","message":"Client connected: hJHIzfeoaQm872qbAAAJ","timestamp":"2025-05-29T04:40:04.522Z"}
+{"level":"info","message":"Client hJHIzfeoaQm872qbAAAJ joined order 12345","timestamp":"2025-05-29T04:40:05.618Z"}
+{"level":"info","message":"Client disconnected: ruQ0FO3N3uwME1AFAAAD","timestamp":"2025-05-29T04:40:12.735Z"}
+{"level":"info","message":"Client disconnected: hJHIzfeoaQm872qbAAAJ","timestamp":"2025-05-29T04:40:34.725Z"}
+{"level":"info","message":"Client connected: jHYHbdbRvwQpMl27AAAL","timestamp":"2025-05-29T04:40:42.217Z"}
+{"level":"info","message":"Client jHYHbdbRvwQpMl27AAAL joined order 12345","timestamp":"2025-05-29T04:40:42.565Z"}
+{"level":"info","message":"Client connected: BzgttwV-UYyDqzMzAAAN","timestamp":"2025-05-29T04:40:45.764Z"}
+{"level":"info","message":"Client disconnected: jHYHbdbRvwQpMl27AAAL","timestamp":"2025-05-29T04:40:56.713Z"}
+{"level":"info","message":"Client disconnected: BzgttwV-UYyDqzMzAAAN","timestamp":"2025-05-29T04:41:30.604Z"}
+{"level":"info","message":"Client connected: NyD8UDSCimflF57FAAAP","timestamp":"2025-05-29T04:41:36.398Z"}
+{"level":"info","message":"Client NyD8UDSCimflF57FAAAP joined order 12345","timestamp":"2025-05-29T04:41:36.683Z"}
+{"level":"info","message":"Client disconnected: NyD8UDSCimflF57FAAAP","timestamp":"2025-05-29T04:42:09.444Z"}
+{"level":"info","message":"Client connected: 2osFc0evYwBjxzYDAAAR","timestamp":"2025-05-29T04:42:13.741Z"}
+{"level":"info","message":"Client 2osFc0evYwBjxzYDAAAR joined order 12345","timestamp":"2025-05-29T04:42:14.069Z"}
+{"level":"info","message":"Client connected: 2zyemT7kEhwmWnspAAAT","timestamp":"2025-05-29T04:42:16.543Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T04:42:17.395Z"}
+{"level":"info","message":"Fetching road network for bbox: 12.955,77.58,17.4043,78.47829999999999","timestamp":"2025-05-29T04:42:17.396Z"}
+{"level":"info","message":"Client 2zyemT7kEhwmWnspAAAT joined order 12345","timestamp":"2025-05-29T04:42:17.841Z"}
+{"level":"info","message":"Fetched 335 nodes and 4 ways","timestamp":"2025-05-29T04:42:18.126Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":12.975,\"longitude\":77.6}, end: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T04:42:18.126Z"}
+{"level":"warn","message":"Path reconstruction exceeded max iterations","timestamp":"2025-05-29T04:42:18.131Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-29T04:42:18.132Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp3","timestamp":"2025-05-29T04:42:18.132Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T04:55:00.988Z"}
+{"level":"info","message":"Fetching road network for bbox: 17.3643,78.4383,17.4043,78.47829999999999","timestamp":"2025-05-29T04:55:00.989Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T04:55:02.177Z"}
+{"level":"info","message":"Fetching road network for bbox: 17.3643,78.4383,17.4043,78.47829999999999","timestamp":"2025-05-29T04:55:02.178Z"}
+{"level":"info","message":"Fetched 24797 nodes and 6687 ways","timestamp":"2025-05-29T04:55:07.853Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.3843,\"longitude\":78.4583}, end: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T04:55:07.853Z"}
+{"level":"warn","message":"Invalid current node in A*","timestamp":"2025-05-29T04:55:07.914Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-29T04:55:07.915Z"}
+{"level":"info","message":"Fetched 24797 nodes and 6687 ways","timestamp":"2025-05-29T04:55:07.953Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.3843,\"longitude\":78.4583}, end: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T04:55:07.953Z"}
+{"level":"warn","message":"Invalid current node in A*","timestamp":"2025-05-29T04:55:08.014Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-29T04:55:08.014Z"}
+{"level":"info","message":"Client connected: 3namrENZtQNbd079AAAV","timestamp":"2025-05-29T04:56:47.535Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T04:56:47.613Z"}
+{"level":"info","message":"Client 3namrENZtQNbd079AAAV joined order 12345","timestamp":"2025-05-29T04:56:48.006Z"}
+{"level":"info","message":"Client connected: _cWWMyOU8uRkj8jEAAAX","timestamp":"2025-05-29T04:56:55.614Z"}
+{"level":"info","message":"Client _cWWMyOU8uRkj8jEAAAX joined order 12345","timestamp":"2025-05-29T04:56:55.872Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T04:56:56.328Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:04:06.859Z"}
+{"level":"info","message":"Client disconnected: _cWWMyOU8uRkj8jEAAAX","timestamp":"2025-05-29T05:10:50.296Z"}
+{"level":"info","message":"Client disconnected: 2osFc0evYwBjxzYDAAAR","timestamp":"2025-05-29T05:10:50.300Z"}
+{"level":"info","message":"Client disconnected: 3namrENZtQNbd079AAAV","timestamp":"2025-05-29T05:10:50.306Z"}
+{"level":"info","message":"Client disconnected: 2zyemT7kEhwmWnspAAAT","timestamp":"2025-05-29T05:10:50.363Z"}
+{"level":"info","message":"Client connected: zIZwGhqGbn2oejRBAAAZ","timestamp":"2025-05-29T05:22:04.001Z"}
+{"level":"info","message":"Client zIZwGhqGbn2oejRBAAAZ joined order 12345","timestamp":"2025-05-29T05:22:04.422Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:24:00.466Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T05:28:16.126Z"}
+{"level":"info","message":"Client connected: aMyGZsNhsBAmgdlGAAAB","timestamp":"2025-05-29T05:28:20.141Z"}
+{"level":"info","message":"Client aMyGZsNhsBAmgdlGAAAB joined order 12345","timestamp":"2025-05-29T05:28:20.587Z"}
+{"level":"info","message":"Client disconnected: aMyGZsNhsBAmgdlGAAAB","timestamp":"2025-05-29T05:28:21.120Z"}
+{"level":"info","message":"Client connected: WlE1CyNsW2-gX_GoAAAD","timestamp":"2025-05-29T05:31:51.504Z"}
+{"level":"info","message":"Client WlE1CyNsW2-gX_GoAAAD joined order 12345","timestamp":"2025-05-29T05:31:51.887Z"}
+{"level":"info","message":"Client connected: 8nnGwKGZrADniAIsAAAF","timestamp":"2025-05-29T05:31:59.994Z"}
+{"level":"info","message":"Client 8nnGwKGZrADniAIsAAAF joined order 12345","timestamp":"2025-05-29T05:32:00.587Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T05:32:00.880Z"}
+{"level":"info","message":"Fetching road network for bbox: 17.3643,78.4383,17.4043,78.47829999999999","timestamp":"2025-05-29T05:32:00.881Z"}
+{"level":"info","message":"Fetched 20726 nodes and 5603 ways","timestamp":"2025-05-29T05:32:06.435Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.3843,\"longitude\":78.4583}, end: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T05:32:06.435Z"}
+{"level":"warn","message":"Invalid current node in A*","timestamp":"2025-05-29T05:32:06.492Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-29T05:32:06.493Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp1","timestamp":"2025-05-29T05:32:06.493Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:35:20.826Z"}
+{"level":"info","message":"Client disconnected: WlE1CyNsW2-gX_GoAAAD","timestamp":"2025-05-29T05:35:33.702Z"}
+{"level":"info","message":"Client connected: QQRwSwZFXhrAErP8AAAH","timestamp":"2025-05-29T05:36:22.209Z"}
+{"level":"info","message":"Client QQRwSwZFXhrAErP8AAAH joined order 12345","timestamp":"2025-05-29T05:36:22.710Z"}
+{"coords":{"latitude":17.3649,"longitude":78.4689},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:37:10.989Z"}
+{"level":"info","message":"Fetching road network for bbox: 17.3449,78.4383,17.4043,78.4889","timestamp":"2025-05-29T05:37:10.990Z"}
+{"level":"info","message":"Client disconnected: 8nnGwKGZrADniAIsAAAF","timestamp":"2025-05-29T05:37:15.003Z"}
+{"level":"info","message":"Client disconnected: QQRwSwZFXhrAErP8AAAH","timestamp":"2025-05-29T05:37:15.454Z"}
+{"level":"info","message":"Fetched 21556 nodes and 5909 ways","timestamp":"2025-05-29T05:37:44.367Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.3843,\"longitude\":78.4583}, end: {\"latitude\":17.3649,\"longitude\":78.4689}","timestamp":"2025-05-29T05:37:44.367Z"}
+{"level":"warn","message":"Path reconstruction exceeded max iterations","timestamp":"2025-05-29T05:37:44.681Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-29T05:37:44.681Z"}
+{"level":"info","message":"Client connected: qOrZBGeTGOkWQZUAAAAJ","timestamp":"2025-05-29T05:37:51.206Z"}
+{"level":"info","message":"Client qOrZBGeTGOkWQZUAAAAJ joined order 12345","timestamp":"2025-05-29T05:37:51.636Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:39:18.362Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:39:46.169Z"}
+{"level":"info","message":"Client connected: PAIwQLQqghjDVchxAAAL","timestamp":"2025-05-29T05:39:54.239Z"}
+{"level":"info","message":"Client PAIwQLQqghjDVchxAAAL joined order 12345","timestamp":"2025-05-29T05:39:54.676Z"}
+{"coords":{"latitude":17.3649,"longitude":78.4689},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:40:33.496Z"}
+{"coords":{"latitude":17.3649,"longitude":78.4689},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:42:59.507Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.401185},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:44:10.857Z"}
+{"level":"info","message":"Fetching road network for bbox: 17.3643,78.381185,17.606402799999998,78.47829999999999","timestamp":"2025-05-29T05:44:10.857Z"}
+{"level":"info","message":"Fetched 12044 nodes and 3833 ways","timestamp":"2025-05-29T05:44:16.209Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.3843,\"longitude\":78.4583}, end: {\"latitude\":17.5864028,\"longitude\":78.401185}","timestamp":"2025-05-29T05:44:16.209Z"}
+{"level":"warn","message":"Path reconstruction exceeded max iterations","timestamp":"2025-05-29T05:44:16.746Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-29T05:44:16.747Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T05:44:54.746Z"}
+{"level":"info","message":"Client connected: NbmAF1kLWCvlUkVXAAAB","timestamp":"2025-05-29T05:44:54.971Z"}
+{"level":"info","message":"Client NbmAF1kLWCvlUkVXAAAB joined order 12345","timestamp":"2025-05-29T05:44:56.363Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T05:45:58.672Z"}
+{"level":"info","message":"Client connected: IZoJC4Ny-hPJCMD3AAAB","timestamp":"2025-05-29T05:45:59.537Z"}
+{"level":"info","message":"Client IZoJC4Ny-hPJCMD3AAAB joined order 12345","timestamp":"2025-05-29T05:46:00.171Z"}
+{"level":"info","message":"Client disconnected: IZoJC4Ny-hPJCMD3AAAB","timestamp":"2025-05-29T05:48:14.576Z"}
+{"level":"info","message":"Client connected: aeCbz2bnYajPzx_NAAAD","timestamp":"2025-05-29T05:48:16.688Z"}
+{"level":"info","message":"Client disconnected: aeCbz2bnYajPzx_NAAAD","timestamp":"2025-05-29T05:49:01.212Z"}
+{"level":"info","message":"Client connected: _Rrk7qboRmvLDRfuAAAF","timestamp":"2025-05-29T05:49:35.587Z"}
+{"level":"info","message":"Client _Rrk7qboRmvLDRfuAAAF joined order 12345","timestamp":"2025-05-29T05:49:36.017Z"}
+{"level":"info","message":"Client disconnected: _Rrk7qboRmvLDRfuAAAF","timestamp":"2025-05-29T05:51:10.422Z"}
+{"level":"info","message":"Client connected: PzbkQSXaXZohzYjnAAAH","timestamp":"2025-05-29T05:51:30.090Z"}
+{"level":"info","message":"Client PzbkQSXaXZohzYjnAAAH joined order 12345","timestamp":"2025-05-29T05:51:30.722Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864025,\"longitude\":78.4011857}","timestamp":"2025-05-29T05:51:34.244Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T05:51:51.392Z"}
+{"level":"info","message":"Client connected: gycHYxAXJm55z90_AAAB","timestamp":"2025-05-29T05:51:53.222Z"}
+{"level":"info","message":"Client gycHYxAXJm55z90_AAAB joined order 12345","timestamp":"2025-05-29T05:51:53.639Z"}
+{"level":"info","message":"Client disconnected: gycHYxAXJm55z90_AAAB","timestamp":"2025-05-29T05:52:12.478Z"}
+{"level":"info","message":"Client connected: rYk2DIJ_WkoWobDJAAAE","timestamp":"2025-05-29T05:52:20.434Z"}
+{"level":"info","message":"Client rYk2DIJ_WkoWobDJAAAE joined order 12345","timestamp":"2025-05-29T05:52:21.524Z"}
+{"level":"info","message":"Client connected: I9jB27IX6XneST5mAAAG","timestamp":"2025-05-29T05:52:31.159Z"}
+{"level":"info","message":"Client connected: ycagEx7i2FGzB4VxAAAI","timestamp":"2025-05-29T05:53:14.471Z"}
+{"level":"info","message":"Client ycagEx7i2FGzB4VxAAAI joined order 12345","timestamp":"2025-05-29T05:53:14.932Z"}
+{"level":"info","message":"Client disconnected: I9jB27IX6XneST5mAAAG","timestamp":"2025-05-29T05:53:15.987Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864027,\"longitude\":78.4011823}","timestamp":"2025-05-29T05:53:23.972Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T05:55:51.486Z"}
+{"level":"info","message":"Client connected: 2JBDyoSp_dpWY2vtAAAB","timestamp":"2025-05-29T05:56:02.737Z"}
+{"level":"info","message":"Client 2JBDyoSp_dpWY2vtAAAB joined order 12345","timestamp":"2025-05-29T05:56:03.142Z"}
+{"level":"info","message":"Client disconnected: 2JBDyoSp_dpWY2vtAAAB","timestamp":"2025-05-29T05:56:11.885Z"}
+{"level":"info","message":"Client connected: sZPoo6ODk34FHkIVAAAD","timestamp":"2025-05-29T05:56:17.853Z"}
+{"level":"info","message":"Client sZPoo6ODk34FHkIVAAAD joined order 12345","timestamp":"2025-05-29T05:56:18.300Z"}
+{"level":"info","message":"Client connected: VAzF-_Y4QOtzU5ucAAAF","timestamp":"2025-05-29T05:56:29.907Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864055,\"longitude\":78.4011809}","timestamp":"2025-05-29T05:56:30.360Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T05:56:30.360Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T05:56:30.361Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011808},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:56:30.539Z"}
+{"level":"info","message":"Client VAzF-_Y4QOtzU5ucAAAF joined order 12345","timestamp":"2025-05-29T05:56:30.541Z"}
+{"coords":{"latitude":17.5864028,"longitude":78.4011808},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:56:33.689Z"}
+{"level":"info","message":"Client disconnected: sZPoo6ODk34FHkIVAAAD","timestamp":"2025-05-29T05:56:39.098Z"}
+{"level":"info","message":"Client connected: l1rZLUya1179wgeQAAAI","timestamp":"2025-05-29T05:56:42.510Z"}
+{"level":"info","message":"Client l1rZLUya1179wgeQAAAI joined order 12345","timestamp":"2025-05-29T05:56:42.858Z"}
+{"coords":{"latitude":17.5864026,"longitude":78.4011854},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:56:53.473Z"}
+{"level":"info","message":"Client disconnected: l1rZLUya1179wgeQAAAI","timestamp":"2025-05-29T05:58:27.762Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T05:58:31.596Z"}
+{"level":"info","message":"Client connected: UHXxF7P3DcHYtnmGAAAB","timestamp":"2025-05-29T05:58:33.078Z"}
+{"level":"info","message":"Client UHXxF7P3DcHYtnmGAAAB joined order 12345","timestamp":"2025-05-29T05:58:33.531Z"}
+{"level":"info","message":"Client connected: FksSkZ_OUv3zppRXAAAD","timestamp":"2025-05-29T05:58:37.266Z"}
+{"coords":{"latitude":17.5863994,"longitude":78.4011816},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:58:37.581Z"}
+{"level":"info","message":"Client FksSkZ_OUv3zppRXAAAD joined order 12345","timestamp":"2025-05-29T05:58:37.756Z"}
+{"coords":{"latitude":17.5864027,"longitude":78.4011854},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T05:58:43.648Z"}
+{"level":"info","message":"Client disconnected: UHXxF7P3DcHYtnmGAAAB","timestamp":"2025-05-29T05:58:52.299Z"}
+{"level":"info","message":"Client connected: qbH7Gyt9-d3RQum9AAAF","timestamp":"2025-05-29T05:58:55.736Z"}
+{"level":"info","message":"Client qbH7Gyt9-d3RQum9AAAF joined order 12345","timestamp":"2025-05-29T05:58:56.164Z"}
+{"coords":{"latitude":17.5864031,"longitude":78.4011803},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:59:04.484Z"}
+{"coords":{"latitude":17.586404,"longitude":78.4011829},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T05:59:06.211Z"}
+{"level":"info","message":"Client disconnected: qbH7Gyt9-d3RQum9AAAF","timestamp":"2025-05-29T06:00:33.749Z"}
+{"level":"info","message":"Client connected: ROiPdWVQmPjeeKb2AAAH","timestamp":"2025-05-29T06:00:37.272Z"}
+{"level":"info","message":"Client ROiPdWVQmPjeeKb2AAAH joined order 12345","timestamp":"2025-05-29T06:00:37.698Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011855},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:00:39.255Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011816},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:00:42.254Z"}
+{"level":"info","message":"Client disconnected: FksSkZ_OUv3zppRXAAAD","timestamp":"2025-05-29T06:01:27.231Z"}
+{"level":"info","message":"Client connected: a4pG_MZeGf3uKdqOAAAJ","timestamp":"2025-05-29T06:02:49.842Z"}
+{"level":"info","message":"Client a4pG_MZeGf3uKdqOAAAJ joined order 12345","timestamp":"2025-05-29T06:02:50.476Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864029,\"longitude\":78.4011856}","timestamp":"2025-05-29T06:02:53.048Z"}
+{"level":"info","message":"Fetching road network for bbox: 17.5664029,78.3811829,17.606404,78.4211856","timestamp":"2025-05-29T06:02:53.049Z"}
+{"level":"info","message":"Client disconnected: ROiPdWVQmPjeeKb2AAAH","timestamp":"2025-05-29T06:02:56.521Z"}
+{"level":"info","message":"Fetched 7202 nodes and 1392 ways","timestamp":"2025-05-29T06:02:58.615Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.586404,\"longitude\":78.4011829}, end: {\"latitude\":17.5864029,\"longitude\":78.4011856}","timestamp":"2025-05-29T06:02:58.616Z"}
+{"level":"warn","message":"Invalid current node in A*","timestamp":"2025-05-29T06:02:58.635Z"}
+{"level":"info","message":"Route updated for order 12345: 0 nodes","timestamp":"2025-05-29T06:02:58.635Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp1","timestamp":"2025-05-29T06:02:58.636Z"}
+{"level":"info","message":"Client disconnected: a4pG_MZeGf3uKdqOAAAJ","timestamp":"2025-05-29T06:03:43.460Z"}
+{"level":"info","message":"Client connected: QDhUS9QOQPyy0kRvAAAL","timestamp":"2025-05-29T06:03:49.493Z"}
+{"level":"info","message":"Client connected: Ll-v7n-0d1nsiHqaAAAO","timestamp":"2025-05-29T06:04:15.958Z"}
+{"level":"info","message":"Client Ll-v7n-0d1nsiHqaAAAO joined order 12345","timestamp":"2025-05-29T06:04:16.369Z"}
+{"level":"info","message":"Client disconnected: QDhUS9QOQPyy0kRvAAAL","timestamp":"2025-05-29T06:04:34.270Z"}
+{"level":"info","message":"Client disconnected: Ll-v7n-0d1nsiHqaAAAO","timestamp":"2025-05-29T06:04:48.427Z"}
+{"level":"info","message":"Client connected: NaNMmdq2YJFEeIGYAAAQ","timestamp":"2025-05-29T06:05:03.801Z"}
+{"level":"info","message":"Client connected: gDiFFtJJhGdTUOu4AAAS","timestamp":"2025-05-29T06:05:13.699Z"}
+{"level":"info","message":"Client gDiFFtJJhGdTUOu4AAAS joined order 12345","timestamp":"2025-05-29T06:05:14.139Z"}
+{"level":"info","message":"Client disconnected: NaNMmdq2YJFEeIGYAAAQ","timestamp":"2025-05-29T06:05:48.584Z"}
+{"level":"info","message":"Client disconnected: gDiFFtJJhGdTUOu4AAAS","timestamp":"2025-05-29T06:06:28.848Z"}
+{"level":"info","message":"Client connected: tqGNhxC2UaHLdEkqAAAU","timestamp":"2025-05-29T06:06:38.521Z"}
+{"level":"info","message":"Client tqGNhxC2UaHLdEkqAAAU joined order 12345","timestamp":"2025-05-29T06:06:46.734Z"}
+{"level":"info","message":"Client connected: 1wvojkWmoph8V0OUAAAW","timestamp":"2025-05-29T06:06:47.459Z"}
+{"level":"info","message":"Client 1wvojkWmoph8V0OUAAAW joined order 12345","timestamp":"2025-05-29T06:06:48.609Z"}
+{"level":"info","message":"Client disconnected: 1wvojkWmoph8V0OUAAAW","timestamp":"2025-05-29T06:08:41.260Z"}
+{"level":"info","message":"Client disconnected: tqGNhxC2UaHLdEkqAAAU","timestamp":"2025-05-29T06:08:41.465Z"}
+{"level":"info","message":"Client connected: lsQODb0NFmeGdA9SAAAY","timestamp":"2025-05-29T06:10:51.427Z"}
+{"level":"info","message":"Client lsQODb0NFmeGdA9SAAAY joined order 12345","timestamp":"2025-05-29T06:10:51.789Z"}
+{"level":"info","message":"Client connected: dNILyAOdFCox_geUAAAa","timestamp":"2025-05-29T06:11:11.450Z"}
+{"level":"info","message":"Client dNILyAOdFCox_geUAAAa joined order 12345","timestamp":"2025-05-29T06:11:12.952Z"}
+{"coords":{"latitude":17.5864039,"longitude":78.4011823},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:11:21.498Z"}
+{"level":"info","message":"Client disconnected: dNILyAOdFCox_geUAAAa","timestamp":"2025-05-29T06:11:31.063Z"}
+{"level":"info","message":"Client disconnected: lsQODb0NFmeGdA9SAAAY","timestamp":"2025-05-29T06:11:31.910Z"}
+{"level":"info","message":"Client connected: ouIhve5TSkPNpIKmAAAc","timestamp":"2025-05-29T06:11:39.160Z"}
+{"level":"info","message":"Client ouIhve5TSkPNpIKmAAAc joined order 12345","timestamp":"2025-05-29T06:11:40.414Z"}
+{"level":"info","message":"Client connected: zsT5XBerC9UUWOygAAAe","timestamp":"2025-05-29T06:11:42.592Z"}
+{"level":"info","message":"Client zsT5XBerC9UUWOygAAAe joined order 12345","timestamp":"2025-05-29T06:11:42.949Z"}
+{"coords":{"latitude":17.5864039,"longitude":78.4011823},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:11:46.789Z"}
+{"level":"info","message":"Client disconnected: zsT5XBerC9UUWOygAAAe","timestamp":"2025-05-29T06:11:50.308Z"}
+{"coords":{"latitude":17.5864016,"longitude":78.4011862},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:11:52.525Z"}
+{"level":"info","message":"Client disconnected: ouIhve5TSkPNpIKmAAAc","timestamp":"2025-05-29T06:11:54.579Z"}
+{"level":"info","message":"Client connected: Vez7PNtzwgk-ThUsAAAg","timestamp":"2025-05-29T06:12:07.417Z"}
+{"level":"info","message":"Client connected: zdkRJszl0ewB-b8lAAAi","timestamp":"2025-05-29T06:12:12.779Z"}
+{"level":"info","message":"Client zdkRJszl0ewB-b8lAAAi joined order 12345","timestamp":"2025-05-29T06:12:13.138Z"}
+{"level":"info","message":"Client disconnected: zdkRJszl0ewB-b8lAAAi","timestamp":"2025-05-29T06:12:38.399Z"}
+{"level":"info","message":"Client disconnected: Vez7PNtzwgk-ThUsAAAg","timestamp":"2025-05-29T06:12:52.247Z"}
+{"level":"info","message":"Client connected: Q3T7Pe1YouFyAGQEAAAk","timestamp":"2025-05-29T06:13:16.673Z"}
+{"level":"info","message":"Client Q3T7Pe1YouFyAGQEAAAk joined order 12345","timestamp":"2025-05-29T06:13:17.026Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T06:14:34.036Z"}
+{"level":"info","message":"Client connected: 7RDXNi2wLvKzXW0bAAAB","timestamp":"2025-05-29T06:14:34.590Z"}
+{"level":"info","message":"Client 7RDXNi2wLvKzXW0bAAAB joined order 12345","timestamp":"2025-05-29T06:14:34.888Z"}
+{"level":"info","message":"Client disconnected: 7RDXNi2wLvKzXW0bAAAB","timestamp":"2025-05-29T06:14:37.161Z"}
+{"level":"info","message":"Client connected: 3kbG2YEBsc_zjk_zAAAD","timestamp":"2025-05-29T06:14:40.423Z"}
+{"level":"info","message":"Client 3kbG2YEBsc_zjk_zAAAD joined order 12345","timestamp":"2025-05-29T06:14:40.825Z"}
+{"level":"info","message":"Client connected: SgUt12pylE2gvjbYAAAF","timestamp":"2025-05-29T06:15:02.741Z"}
+{"level":"info","message":"Client SgUt12pylE2gvjbYAAAF joined order 12345","timestamp":"2025-05-29T06:15:04.021Z"}
+{"level":"info","message":"Client connected: MvbdUjz3u94kJjhcAAAH","timestamp":"2025-05-29T06:15:07.259Z"}
+{"level":"info","message":"Client disconnected: SgUt12pylE2gvjbYAAAF","timestamp":"2025-05-29T06:15:47.416Z"}
+{"level":"info","message":"Client disconnected: MvbdUjz3u94kJjhcAAAH","timestamp":"2025-05-29T06:15:52.022Z"}
+{"level":"info","message":"Client disconnected: 3kbG2YEBsc_zjk_zAAAD","timestamp":"2025-05-29T06:16:07.068Z"}
+{"level":"info","message":"Client connected: mnhyurKajGydQzVZAAAJ","timestamp":"2025-05-29T06:16:11.206Z"}
+{"level":"info","message":"Client connected: 5sp6_IbKmxbSuPvKAAAL","timestamp":"2025-05-29T06:16:15.822Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:16:16.475Z"}
+{"level":"info","message":"Client mnhyurKajGydQzVZAAAJ joined order 12345","timestamp":"2025-05-29T06:16:16.892Z"}
+{"level":"info","message":"Client 5sp6_IbKmxbSuPvKAAAL joined order 12345","timestamp":"2025-05-29T06:16:17.115Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:16:19.270Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:16:28.928Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:16:34.645Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:16:44.096Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:16:49.567Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:16:59.242Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:04.742Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:14.243Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:19.637Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:29.419Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:34.751Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:44.454Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:50.107Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:17:59.558Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:18:05.083Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:18:14.692Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:18:20.092Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:18:29.760Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:18:35.247Z"}
+{"level":"info","message":"Client disconnected: mnhyurKajGydQzVZAAAJ","timestamp":"2025-05-29T06:18:38.492Z"}
+{"level":"info","message":"Client connected: nZIQsDgpeHu9cV3VAAAN","timestamp":"2025-05-29T06:18:41.447Z"}
+{"level":"info","message":"Client nZIQsDgpeHu9cV3VAAAN joined order 12345","timestamp":"2025-05-29T06:18:42.342Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:18:49.044Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:18:54.275Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:19:03.861Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:19:09.054Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:19:18.876Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:19:24.415Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:19:33.993Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:19:39.221Z"}
+{"level":"info","message":"Client disconnected: nZIQsDgpeHu9cV3VAAAN","timestamp":"2025-05-29T06:19:42.558Z"}
+{"level":"info","message":"Client disconnected: 5sp6_IbKmxbSuPvKAAAL","timestamp":"2025-05-29T06:19:43.407Z"}
+{"level":"info","message":"Client connected: fwJbsL6Co7Sb0J8oAAAP","timestamp":"2025-05-29T06:19:45.481Z"}
+{"level":"info","message":"Client connected: N8h034ooSLVNxpcGAAAR","timestamp":"2025-05-29T06:19:46.607Z"}
+{"level":"info","message":"Client fwJbsL6Co7Sb0J8oAAAP joined order 12345","timestamp":"2025-05-29T06:19:46.836Z"}
+{"level":"info","message":"Client N8h034ooSLVNxpcGAAAR joined order 12345","timestamp":"2025-05-29T06:19:46.998Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T06:19:53.839Z"}
+{"level":"info","message":"Client connected: 20jXcxe8qj799UB7AAAB","timestamp":"2025-05-29T06:19:54.138Z"}
+{"level":"info","message":"Client 20jXcxe8qj799UB7AAAB joined order 12345","timestamp":"2025-05-29T06:19:54.451Z"}
+{"level":"info","message":"Client connected: rJFrHOfkXt93Bbq1AAAD","timestamp":"2025-05-29T06:19:54.452Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:19:55.156Z"}
+{"level":"info","message":"Client disconnected: rJFrHOfkXt93Bbq1AAAD","timestamp":"2025-05-29T06:19:55.383Z"}
+{"level":"info","message":"Client disconnected: 20jXcxe8qj799UB7AAAB","timestamp":"2025-05-29T06:19:56.142Z"}
+{"level":"info","message":"Client connected: MzZK2HpxVlB_JQeSAAAF","timestamp":"2025-05-29T06:19:58.166Z"}
+{"level":"info","message":"Client MzZK2HpxVlB_JQeSAAAF joined order 12345","timestamp":"2025-05-29T06:19:59.444Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:20:11.404Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:20:26.438Z"}
+{"level":"info","message":"Client connected: H_m7Ove5R9OHrUlCAAAH","timestamp":"2025-05-29T06:20:34.951Z"}
+{"level":"info","message":"Client H_m7Ove5R9OHrUlCAAAH joined order 12345","timestamp":"2025-05-29T06:20:35.231Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:20:41.714Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:20:56.763Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:21:12.024Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:21:26.900Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:21:42.205Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:22:54.132Z"}
+{"level":"info","message":"Client disconnected: MzZK2HpxVlB_JQeSAAAF","timestamp":"2025-05-29T06:23:11.233Z"}
+{"coords":{"latitude":17.5864043,"longitude":78.4011827},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:25:32.406Z"}
+{"coords":{"latitude":17.5864059,"longitude":78.4011738},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:26:06.980Z"}
+{"level":"info","message":"Client disconnected: H_m7Ove5R9OHrUlCAAAH","timestamp":"2025-05-29T06:26:09.787Z"}
+{"level":"info","message":"Client connected: 5B9Uk7Tc78VMypODAAAL","timestamp":"2025-05-29T06:26:24.094Z"}
+{"level":"info","message":"Client connected: 23-TOMLBFhMDqSI4AAAM","timestamp":"2025-05-29T06:26:24.296Z"}
+{"level":"info","message":"Client 23-TOMLBFhMDqSI4AAAM joined order 12345","timestamp":"2025-05-29T06:26:24.799Z"}
+{"level":"info","message":"Client 5B9Uk7Tc78VMypODAAAL joined order 12345","timestamp":"2025-05-29T06:26:25.557Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:26:33.591Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:26:37.485Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:26:43.228Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:26:52.531Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:02.620Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:08.182Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:17.753Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:23.162Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:32.939Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:38.082Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:47.981Z"}
+{"coords":{"latitude":17.586402,"longitude":78.4011837},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:27:52.084Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:27:53.089Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:03.040Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:13.137Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:23.972Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:28.455Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:33.853Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:43.440Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:49.063Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:28:58.514Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:03.918Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:13.569Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:19.001Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:28.714Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:34.230Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:43.836Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:49.365Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:29:59.011Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:04.424Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:14.139Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:19.464Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:29.217Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:34.642Z"}
+{"level":"info","message":"Client disconnected: 23-TOMLBFhMDqSI4AAAM","timestamp":"2025-05-29T06:30:41.588Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:44.290Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:49.671Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:30:59.396Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:04.955Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:14.498Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:19.982Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:29.665Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:35.320Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:44.750Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:50.068Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:31:59.830Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:32:05.677Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:32:14.929Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:32:20.489Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:32:30.054Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:32:35.448Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:32:45.071Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:32:50.588Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:00.202Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:05.575Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:15.312Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:20.926Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:30.376Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:35.860Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:45.513Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:33:50.631Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:34:00.597Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:34:06.198Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:34:20.708Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:34:36.504Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:34:51.233Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:35:06.407Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:35:15.999Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:35:21.192Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:35:30.986Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:35:36.628Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:35:46.276Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:35:51.730Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:01.175Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:06.609Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:16.281Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:21.521Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:31.388Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:37.098Z"}
+{"level":"info","message":"Client connected: xX43_pTkj3P7imAzAAAO","timestamp":"2025-05-29T06:36:40.092Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011856},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:36:40.493Z"}
+{"level":"info","message":"Client xX43_pTkj3P7imAzAAAO joined order 12345","timestamp":"2025-05-29T06:36:40.680Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:46.526Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:36:51.839Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:01.648Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:07.115Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:16.739Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:22.167Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:31.842Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:37.533Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:46.965Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:37:52.416Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:02.008Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:07.612Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:17.134Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:22.738Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:32.229Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:37.711Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:47.341Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:38:52.667Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:02.536Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:08.037Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:17.532Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:23.027Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:32.582Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:37.931Z"}
+{"level":"info","message":"Client disconnected: 5B9Uk7Tc78VMypODAAAL","timestamp":"2025-05-29T06:39:49.417Z"}
+{"level":"info","message":"Client connected: -S63X5ZoL7MQ_wTsAAAQ","timestamp":"2025-05-29T06:39:51.807Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:52.420Z"}
+{"level":"info","message":"Client -S63X5ZoL7MQ_wTsAAAQ joined order 12345","timestamp":"2025-05-29T06:39:52.691Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:39:53.876Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:40:04.782Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:40:07.734Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:40:31.203Z"}
+{"coords":{"latitude":17.5864018,"longitude":78.4011855},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T06:40:31.585Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:40:42.683Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:40:52.974Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:02.502Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:07.874Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:17.687Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:23.097Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:32.689Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:38.111Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:47.830Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:41:53.306Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:03.043Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:08.355Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:18.186Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:23.595Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:33.289Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:38.835Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:48.405Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:42:53.988Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:03.530Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:08.749Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:18.686Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:24.209Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:33.750Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:39.319Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:49.051Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:43:54.580Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T06:44:03.793Z"}
+{"level":"info","message":"Client connected: n8vvuZsxXtSJEstGAAAB","timestamp":"2025-05-29T06:44:04.301Z"}
+{"level":"info","message":"Client n8vvuZsxXtSJEstGAAAB joined order 12345","timestamp":"2025-05-29T06:44:04.750Z"}
+{"level":"info","message":"Client connected: cdWFl2RhXE6wmpv8AAAD","timestamp":"2025-05-29T06:44:05.353Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:05.660Z"}
+{"level":"info","message":"Client cdWFl2RhXE6wmpv8AAAD joined order 12345","timestamp":"2025-05-29T06:44:05.929Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:09.531Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:19.088Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:24.459Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:34.306Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:39.924Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:49.325Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:44:54.849Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:04.407Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:09.788Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:19.529Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:24.881Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:34.630Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:39.981Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:49.783Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:45:55.227Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:04.894Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:10.309Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:20.040Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:25.469Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:35.149Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:40.735Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:50.299Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:46:56.033Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:47:05.446Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:47:10.948Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:47:26.213Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:47:41.294Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:47:56.323Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:48:11.346Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:48:20.872Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:48:26.926Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:48:35.973Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:48:41.524Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:48:51.131Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:48:56.587Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:06.187Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:11.866Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:21.369Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:26.953Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:36.573Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:41.920Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:51.548Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:49:57.151Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:06.592Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:12.240Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:21.753Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:27.339Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:36.852Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:42.271Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:51.946Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:50:57.334Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:07.042Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:12.649Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:22.233Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:27.599Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:37.258Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:42.754Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:52.367Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:51:57.828Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:52:07.515Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:52:12.963Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:52:22.606Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:52:28.048Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:52:43.376Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:52:58.415Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:53:13.417Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:53:28.582Z"}
+{"level":"info","message":"Client disconnected: cdWFl2RhXE6wmpv8AAAD","timestamp":"2025-05-29T06:53:42.950Z"}
+{"level":"info","message":"Client disconnected: n8vvuZsxXtSJEstGAAAB","timestamp":"2025-05-29T06:53:43.685Z"}
+{"level":"info","message":"Client connected: KA9snF0Kq34ZWR1tAAAF","timestamp":"2025-05-29T06:53:46.688Z"}
+{"level":"info","message":"Client KA9snF0Kq34ZWR1tAAAF joined order 12345","timestamp":"2025-05-29T06:53:47.886Z"}
+{"level":"info","message":"Client connected: QjhnzDtn3eyAfshGAAAH","timestamp":"2025-05-29T06:53:53.628Z"}
+{"level":"info","message":"Client QjhnzDtn3eyAfshGAAAH joined order 12345","timestamp":"2025-05-29T06:53:53.964Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:54:00.072Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:54:15.096Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:54:30.116Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:54:45.209Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:55:01.361Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:55:16.314Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:55:31.255Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:55:46.439Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:56:05.105Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:56:16.745Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:56:31.566Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:56:46.527Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:57:01.713Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:57:17.047Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:57:31.488Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:57:47.134Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:58:01.796Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:58:17.291Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:58:31.986Z"}
+{"level":"info","message":"Client connected: wufV3x0UzzqsLsBKAAAJ","timestamp":"2025-05-29T06:58:45.153Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:58:45.760Z"}
+{"level":"info","message":"Client wufV3x0UzzqsLsBKAAAJ joined order 12345","timestamp":"2025-05-29T06:58:45.760Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:58:47.140Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:59:02.222Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:59:21.081Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:59:32.525Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T06:59:47.256Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:00:02.269Z"}
+{"level":"info","message":"Client connected: 5ElL8_ioJQ77a9x-AAAL","timestamp":"2025-05-29T07:00:05.588Z"}
+{"level":"info","message":"Client 5ElL8_ioJQ77a9x-AAAL joined order 12345","timestamp":"2025-05-29T07:00:06.216Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:00:07.602Z"}
+{"level":"info","message":"Client disconnected: QjhnzDtn3eyAfshGAAAH","timestamp":"2025-05-29T07:00:08.366Z"}
+{"level":"info","message":"Client connected: 6CNv5SSqeXBqxqnXAAAN","timestamp":"2025-05-29T07:00:11.609Z"}
+{"level":"info","message":"Client disconnected: wufV3x0UzzqsLsBKAAAJ","timestamp":"2025-05-29T07:00:55.947Z"}
+{"level":"info","message":"Client disconnected: 5ElL8_ioJQ77a9x-AAAL","timestamp":"2025-05-29T07:00:55.952Z"}
+{"level":"info","message":"Client disconnected: KA9snF0Kq34ZWR1tAAAF","timestamp":"2025-05-29T07:00:55.959Z"}
+{"level":"info","message":"Client disconnected: 6CNv5SSqeXBqxqnXAAAN","timestamp":"2025-05-29T07:00:56.444Z"}
+{"level":"info","message":"Client connected: wJcKMPX9iJsNAHE3AAAP","timestamp":"2025-05-29T07:01:30.255Z"}
+{"level":"info","message":"Client wJcKMPX9iJsNAHE3AAAP joined order 12345","timestamp":"2025-05-29T07:01:38.625Z"}
+{"coords":{"latitude":17.5864039,"longitude":78.4011829},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T07:03:10.054Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T07:04:39.252Z"}
+{"level":"info","message":"Client connected: rC-l5siqdwDasOamAAAB","timestamp":"2025-05-29T07:04:40.311Z"}
+{"level":"info","message":"Client rC-l5siqdwDasOamAAAB joined order 12345","timestamp":"2025-05-29T07:04:41.346Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T07:06:06.844Z"}
+{"level":"info","message":"Client connected: GUveK5To2aLWwrP6AAAB","timestamp":"2025-05-29T07:06:08.254Z"}
+{"level":"info","message":"Client GUveK5To2aLWwrP6AAAB joined order 12345","timestamp":"2025-05-29T07:06:09.489Z"}
+{"level":"info","message":"Client disconnected: GUveK5To2aLWwrP6AAAB","timestamp":"2025-05-29T07:06:19.556Z"}
+{"level":"info","message":"Client connected: JTRn7eHer8N89kGPAAAD","timestamp":"2025-05-29T07:10:18.287Z"}
+{"level":"info","message":"Client JTRn7eHer8N89kGPAAAD joined order 12345","timestamp":"2025-05-29T07:10:18.601Z"}
+{"level":"info","message":"Client connected: tMHx7oOHqFaVQpNvAAAF","timestamp":"2025-05-29T07:10:26.621Z"}
+{"level":"info","message":"Client tMHx7oOHqFaVQpNvAAAF joined order 12345","timestamp":"2025-05-29T07:10:27.393Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864023,\"longitude\":78.4011835}","timestamp":"2025-05-29T07:10:36.343Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T07:10:36.344Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T07:10:36.345Z"}
+{"coords":{"latitude":17.5864023,"longitude":78.4011835},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:10:37.366Z"}
+{"level":"info","message":"Client disconnected: tMHx7oOHqFaVQpNvAAAF","timestamp":"2025-05-29T07:10:50.231Z"}
+{"level":"info","message":"Client connected: l9L3dqKu67qhmkunAAAH","timestamp":"2025-05-29T07:11:02.920Z"}
+{"level":"info","message":"Client l9L3dqKu67qhmkunAAAH joined order 12345","timestamp":"2025-05-29T07:11:04.001Z"}
+{"level":"info","message":"Client disconnected: JTRn7eHer8N89kGPAAAD","timestamp":"2025-05-29T07:11:29.490Z"}
+{"level":"info","message":"Client connected: cER11Hd-t_casMUPAAAJ","timestamp":"2025-05-29T07:11:36.764Z"}
+{"level":"info","message":"Client cER11Hd-t_casMUPAAAJ joined order 12345","timestamp":"2025-05-29T07:11:37.240Z"}
+{"coords":{"latitude":17.5864023,"longitude":78.4011835},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:11:38.486Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T07:13:11.996Z"}
+{"level":"info","message":"Client connected: cBPIyNm0V1gstKqgAAAB","timestamp":"2025-05-29T07:13:12.531Z"}
+{"level":"info","message":"Client cBPIyNm0V1gstKqgAAAB joined order 12345","timestamp":"2025-05-29T07:13:12.769Z"}
+{"level":"info","message":"Client disconnected: cBPIyNm0V1gstKqgAAAB","timestamp":"2025-05-29T07:13:15.262Z"}
+{"level":"info","message":"Client connected: 9MvwWmXzTxkohnsgAAAD","timestamp":"2025-05-29T07:13:19.000Z"}
+{"level":"info","message":"Client 9MvwWmXzTxkohnsgAAAD joined order 12345","timestamp":"2025-05-29T07:13:19.342Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864025,\"longitude\":78.4011856}","timestamp":"2025-05-29T07:13:30.636Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T07:13:30.636Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T07:13:30.636Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:13:31.446Z"}
+{"level":"info","message":"Client disconnected: 9MvwWmXzTxkohnsgAAAD","timestamp":"2025-05-29T07:15:02.190Z"}
+{"level":"info","message":"Client connected: qwD8f6j0Xjf-QzO5AAAF","timestamp":"2025-05-29T07:15:05.350Z"}
+{"level":"info","message":"Client qwD8f6j0Xjf-QzO5AAAF joined order 12345","timestamp":"2025-05-29T07:15:05.700Z"}
+{"level":"info","message":"Client connected: 3C9rZbS6fgbwZ5QrAAAH","timestamp":"2025-05-29T07:15:08.077Z"}
+{"coords":{"latitude":17.5864022,"longitude":78.4011857},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T07:15:08.502Z"}
+{"level":"info","message":"Client 3C9rZbS6fgbwZ5QrAAAH joined order 12345","timestamp":"2025-05-29T07:15:08.821Z"}
+{"coords":{"latitude":17.5864025,"longitude":78.4011856},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:15:21.605Z"}
+{"level":"info","message":"Client disconnected: 3C9rZbS6fgbwZ5QrAAAH","timestamp":"2025-05-29T07:15:21.842Z"}
+{"level":"info","message":"Client connected: iG9PmhU5W9kcJ_9UAAAJ","timestamp":"2025-05-29T07:15:29.924Z"}
+{"level":"info","message":"Client iG9PmhU5W9kcJ_9UAAAJ joined order 12345","timestamp":"2025-05-29T07:15:30.552Z"}
+{"level":"info","message":"Client disconnected: iG9PmhU5W9kcJ_9UAAAJ","timestamp":"2025-05-29T07:16:27.085Z"}
+{"level":"info","message":"Client connected: G7HC7P9QAFCyt2GMAAAL","timestamp":"2025-05-29T07:16:30.168Z"}
+{"level":"info","message":"Client G7HC7P9QAFCyt2GMAAAL joined order 12345","timestamp":"2025-05-29T07:16:30.597Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T07:16:32.764Z"}
+{"level":"info","message":"Client connected: OZ5-raTjsaWv8URiAAAB","timestamp":"2025-05-29T07:16:35.349Z"}
+{"level":"info","message":"Client OZ5-raTjsaWv8URiAAAB joined order 12345","timestamp":"2025-05-29T07:16:35.561Z"}
+{"level":"info","message":"Client disconnected: OZ5-raTjsaWv8URiAAAB","timestamp":"2025-05-29T07:17:09.980Z"}
+{"level":"info","message":"Client connected: eTckVIk50WJ2EAN9AAAD","timestamp":"2025-05-29T07:17:23.084Z"}
+{"level":"info","message":"Client eTckVIk50WJ2EAN9AAAD joined order 12345","timestamp":"2025-05-29T07:17:23.499Z"}
+{"level":"info","message":"Client connected: Am3h76UIQG2u7e1SAAAF","timestamp":"2025-05-29T07:17:28.224Z"}
+{"level":"info","message":"Client Am3h76UIQG2u7e1SAAAF joined order 12345","timestamp":"2025-05-29T07:17:28.656Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T07:17:33.550Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T07:17:33.551Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T07:17:33.551Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:17:34.580Z"}
+{"level":"info","message":"Client disconnected: eTckVIk50WJ2EAN9AAAD","timestamp":"2025-05-29T07:17:49.085Z"}
+{"level":"info","message":"Client connected: 1tODjDoGR7t054HtAAAH","timestamp":"2025-05-29T07:17:53.366Z"}
+{"level":"info","message":"Client 1tODjDoGR7t054HtAAAH joined order 12345","timestamp":"2025-05-29T07:17:53.860Z"}
+{"level":"info","message":"Client disconnected: Am3h76UIQG2u7e1SAAAF","timestamp":"2025-05-29T07:18:12.457Z"}
+{"level":"info","message":"Client connected: AC5aZ1fSvgeBirJiAAAJ","timestamp":"2025-05-29T07:18:15.877Z"}
+{"level":"info","message":"Client AC5aZ1fSvgeBirJiAAAJ joined order 12345","timestamp":"2025-05-29T07:18:16.284Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T07:18:17.532Z"}
+{"level":"info","message":"Client disconnected: AC5aZ1fSvgeBirJiAAAJ","timestamp":"2025-05-29T07:29:24.394Z"}
+{"level":"info","message":"Client disconnected: 1tODjDoGR7t054HtAAAH","timestamp":"2025-05-29T07:31:12.962Z"}
+{"level":"info","message":"Client connected: VD9Cl4UNY-ag4VkDAAAL","timestamp":"2025-05-29T09:15:55.470Z"}
+{"level":"info","message":"Client VD9Cl4UNY-ag4VkDAAAL joined order 12345","timestamp":"2025-05-29T09:15:56.620Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:15:58.237Z"}
+{"level":"info","message":"Client connected: ycNAElNZuDwesECCAAAN","timestamp":"2025-05-29T09:16:04.165Z"}
+{"level":"info","message":"Client ycNAElNZuDwesECCAAAN joined order 12345","timestamp":"2025-05-29T09:16:06.317Z"}
+{"coords":{"latitude":17.5864042,"longitude":78.4011826},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T09:16:18.364Z"}
+{"coords":{"latitude":17.586404,"longitude":78.4011827},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T09:17:19.096Z"}
+{"coords":{"latitude":17.5864042,"longitude":78.4011825},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T09:18:46.845Z"}
+{"coords":{"latitude":17.5864036,"longitude":78.4011839},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T09:22:04.647Z"}
+{"coords":{"latitude":17.5864019,"longitude":78.401186},"level":"info","message":"Delivery location update:","orderId":"12345","timestamp":"2025-05-29T09:24:14.388Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:25:20.195Z"}
+{"level":"info","message":"Client disconnected: VD9Cl4UNY-ag4VkDAAAL","timestamp":"2025-05-29T09:25:44.319Z"}
+{"level":"info","message":"Client connected: n8pPmRxOrNoQ1TDeAAAP","timestamp":"2025-05-29T09:25:53.098Z"}
+{"level":"info","message":"Client n8pPmRxOrNoQ1TDeAAAP joined order 12345","timestamp":"2025-05-29T09:25:53.754Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.5864005,\"longitude\":78.4011865}","timestamp":"2025-05-29T09:26:03.253Z"}
+{"level":"info","message":"Calculating route for order 12345 from {\"latitude\":17.5864019,\"longitude\":78.401186} to {\"latitude\":17.5864005,\"longitude\":78.4011865}","timestamp":"2025-05-29T09:26:03.254Z"}
+{"level":"info","message":"Fetching road network for center: 17.586401199999997,78.40118625, radius: 23070m","timestamp":"2025-05-29T09:26:03.255Z"}
+{"coords":{"latitude":17.5864005,"longitude":78.4011865},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:26:04.309Z"}
+{"level":"info","message":"Fetched 309758 nodes and 83379 ways","timestamp":"2025-05-29T09:26:13.819Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.5864019,\"longitude\":78.401186}, end: {\"latitude\":17.5864005,\"longitude\":78.4011865}","timestamp":"2025-05-29T09:26:13.820Z"}
+{"level":"warn","message":"Invalid current node in A*; using straight-line path","timestamp":"2025-05-29T09:26:14.622Z"}
+{"level":"info","message":"Route updated for order 12345: 2 nodes","timestamp":"2025-05-29T09:26:14.622Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp1","timestamp":"2025-05-29T09:26:14.622Z"}
+{"coords":{"latitude":17.5864005,"longitude":78.4011865},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:27:44.926Z"}
+{"level":"info","message":"Client disconnected: n8pPmRxOrNoQ1TDeAAAP","timestamp":"2025-05-29T09:27:49.804Z"}
+{"level":"info","message":"Client disconnected: ycNAElNZuDwesECCAAAN","timestamp":"2025-05-29T09:27:51.100Z"}
+{"level":"info","message":"Client connected: 6dNBu8j1Py9S_2VWAAAR","timestamp":"2025-05-29T09:27:53.014Z"}
+{"level":"info","message":"Client 6dNBu8j1Py9S_2VWAAAR joined order 12345","timestamp":"2025-05-29T09:27:54.260Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T09:28:02.352Z"}
+{"level":"info","message":"Client connected: GkURUHTHQI_ksQCYAAAB","timestamp":"2025-05-29T09:28:04.336Z"}
+{"level":"info","message":"Client GkURUHTHQI_ksQCYAAAB joined order 12345","timestamp":"2025-05-29T09:28:04.746Z"}
+{"level":"info","message":"Client disconnected: GkURUHTHQI_ksQCYAAAB","timestamp":"2025-05-29T09:28:11.406Z"}
+{"level":"info","message":"Client connected: YMY-ZnuPmQMnSKSVAAAD","timestamp":"2025-05-29T09:28:14.805Z"}
+{"level":"info","message":"Client YMY-ZnuPmQMnSKSVAAAD joined order 12345","timestamp":"2025-05-29T09:28:15.681Z"}
+{"level":"info","message":"Client connected: IQU-Rqkjvjk7YUPRAAAF","timestamp":"2025-05-29T09:28:17.114Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:28:18.017Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T09:28:18.017Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T09:28:18.017Z"}
+{"level":"info","message":"Client IQU-Rqkjvjk7YUPRAAAF joined order 12345","timestamp":"2025-05-29T09:28:18.842Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:28:19.053Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:28:33.088Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T09:28:33.088Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T09:28:33.089Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:28:35.256Z"}
+{"level":"info","message":"Client disconnected: IQU-Rqkjvjk7YUPRAAAF","timestamp":"2025-05-29T09:28:45.830Z"}
+{"level":"info","message":"Client connected: -pGr2C3k0ybwl8S1AAAH","timestamp":"2025-05-29T09:28:47.786Z"}
+{"level":"info","message":"Client -pGr2C3k0ybwl8S1AAAH joined order 12345","timestamp":"2025-05-29T09:28:48.668Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:28:50.340Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T09:28:50.340Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T09:28:50.340Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:28:51.348Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:29:46.149Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T09:29:46.149Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T09:29:46.149Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:29:47.161Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T09:30:26.169Z"}
+{"level":"info","message":"Client connected: ysuurffAf5wifdMIAAAB","timestamp":"2025-05-29T09:30:27.294Z"}
+{"level":"info","message":"Client connected: QrNVDJK6ZN8oyEPBAAAD","timestamp":"2025-05-29T09:30:27.657Z"}
+{"level":"info","message":"Client ysuurffAf5wifdMIAAAB joined order 12345","timestamp":"2025-05-29T09:30:27.713Z"}
+{"level":"info","message":"Client QrNVDJK6ZN8oyEPBAAAD joined order 12345","timestamp":"2025-05-29T09:30:28.133Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:30:35.836Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T09:30:35.836Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T09:30:35.836Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:30:36.798Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T09:32:52.002Z"}
+{"level":"info","message":"Client connected: NjJYe9V4cqkhUXV5AAAC","timestamp":"2025-05-29T09:32:52.847Z"}
+{"level":"info","message":"Client connected: z2HCTCX9T3mfG-zTAAAD","timestamp":"2025-05-29T09:32:52.955Z"}
+{"level":"info","message":"Client NjJYe9V4cqkhUXV5AAAC joined order 12345","timestamp":"2025-05-29T09:32:53.249Z"}
+{"level":"info","message":"Client z2HCTCX9T3mfG-zTAAAD joined order 12345","timestamp":"2025-05-29T09:32:53.352Z"}
+{"level":"info","message":"Client disconnected: NjJYe9V4cqkhUXV5AAAC","timestamp":"2025-05-29T09:32:56.564Z"}
+{"level":"info","message":"Client disconnected: z2HCTCX9T3mfG-zTAAAD","timestamp":"2025-05-29T09:32:57.456Z"}
+{"level":"info","message":"Client connected: 9avvol-VqmZS5PsHAAAF","timestamp":"2025-05-29T09:33:01.274Z"}
+{"level":"info","message":"Client connected: o2haGEb-Eq2NMd-nAAAH","timestamp":"2025-05-29T09:33:02.354Z"}
+{"level":"info","message":"Client 9avvol-VqmZS5PsHAAAF joined order 12345","timestamp":"2025-05-29T09:33:02.640Z"}
+{"level":"info","message":"Client o2haGEb-Eq2NMd-nAAAH joined order 12345","timestamp":"2025-05-29T09:33:02.720Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:33:05.101Z"}
+{"level":"warn","message":"No delivery person location available for order: 12345","timestamp":"2025-05-29T09:33:05.102Z"}
+{"level":"warn","message":"No delivery person available for order:","timestamp":"2025-05-29T09:33:05.102Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-29T09:33:06.146Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T09:39:55.736Z"}
+{"level":"info","message":"Client connected: v-42ZA4SX9fIAoeKAAAB","timestamp":"2025-05-29T09:39:56.876Z"}
+{"level":"info","message":"Client v-42ZA4SX9fIAoeKAAAB joined order 12345","timestamp":"2025-05-29T09:39:57.321Z"}
+{"level":"info","message":"Client connected: Fxrfs50m2IpFLeDVAAAD","timestamp":"2025-05-29T09:39:57.326Z"}
+{"level":"info","message":"Client Fxrfs50m2IpFLeDVAAAD joined order 12345","timestamp":"2025-05-29T09:39:58.166Z"}
+{"level":"info","message":"Client disconnected: v-42ZA4SX9fIAoeKAAAB","timestamp":"2025-05-29T09:39:59.581Z"}
+{"level":"info","message":"Client disconnected: Fxrfs50m2IpFLeDVAAAD","timestamp":"2025-05-29T09:40:00.038Z"}
+{"level":"info","message":"Client connected: tHSnetvKl6NRE0QtAAAF","timestamp":"2025-05-29T09:40:02.801Z"}
+{"level":"info","message":"Client tHSnetvKl6NRE0QtAAAF joined order 12345","timestamp":"2025-05-29T09:40:03.519Z"}
+{"level":"info","message":"Client connected: sE9Zay70MRBxVN_nAAAH","timestamp":"2025-05-29T09:40:03.924Z"}
+{"level":"info","message":"Client sE9Zay70MRBxVN_nAAAH joined order 12345","timestamp":"2025-05-29T09:40:04.857Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:40:09.079Z"}
+{"level":"info","message":"Assigning delivery person for order 12345 with customerCoords: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:40:09.079Z"}
+{"level":"info","message":"Calculating route for order 12345 with deliveryCoords: {\"latitude\":17.385,\"longitude\":78.459}, customerCoords: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:40:09.080Z"}
+{"level":"info","message":"Fetching road network for center: 17.38465,78.45865, radius: 46324.5m","timestamp":"2025-05-29T09:40:09.080Z"}
+{"level":"info","message":"Customer location update for order 12345: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:40:10.102Z"}
+{"level":"info","message":"Client disconnected: sE9Zay70MRBxVN_nAAAH","timestamp":"2025-05-29T09:40:27.486Z"}
+{"level":"info","message":"Client connected: dfYMxhsjFjFEg---AAAJ","timestamp":"2025-05-29T09:40:31.112Z"}
+{"level":"info","message":"Client dfYMxhsjFjFEg---AAAJ joined order 12345","timestamp":"2025-05-29T09:40:31.518Z"}
+{"level":"info","message":"Fetched 747226 nodes and 187977 ways","timestamp":"2025-05-29T09:40:46.451Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.385,\"longitude\":78.459}, end: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:40:46.451Z"}
+{"level":"warn","message":"Path reconstruction exceeded max iterations","timestamp":"2025-05-29T09:40:49.348Z"}
+{"level":"info","message":"Route updated for order 12345: 2 nodes","timestamp":"2025-05-29T09:40:49.349Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp1","timestamp":"2025-05-29T09:40:49.349Z"}
+{"level":"info","message":"Client disconnected: tHSnetvKl6NRE0QtAAAF","timestamp":"2025-05-29T09:44:04.328Z"}
+{"level":"info","message":"Client disconnected: dfYMxhsjFjFEg---AAAJ","timestamp":"2025-05-29T09:44:05.100Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T09:44:06.640Z"}
+{"level":"info","message":"Client connected: Kw1WepAgH6apG7IzAAAB","timestamp":"2025-05-29T09:44:08.690Z"}
+{"level":"info","message":"Client connected: fXGy0MwX5W9tjAW0AAAD","timestamp":"2025-05-29T09:44:09.728Z"}
+{"level":"info","message":"Client fXGy0MwX5W9tjAW0AAAD joined order 12345","timestamp":"2025-05-29T09:44:10.221Z"}
+{"level":"info","message":"Client Kw1WepAgH6apG7IzAAAB joined order 12345","timestamp":"2025-05-29T09:44:10.274Z"}
+{"level":"info","message":"Processing order 12345 for customer at {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:44:32.723Z"}
+{"level":"info","message":"Assigning delivery person for order 12345 with customerCoords: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:44:32.723Z"}
+{"level":"info","message":"No delivery person in pool; using default for order 12345","timestamp":"2025-05-29T09:44:32.723Z"}
+{"level":"info","message":"Calculating route for order 12345 with deliveryCoords: {\"latitude\":17.3943,\"longitude\":78.4683}, customerCoords: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:44:32.724Z"}
+{"level":"info","message":"Fetching road network for center: 17.3893,78.4633, radius: 48471m","timestamp":"2025-05-29T09:44:32.724Z"}
+{"level":"info","message":"Customer location update for order 12345: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:44:33.034Z"}
+{"level":"info","message":"Client disconnected: fXGy0MwX5W9tjAW0AAAD","timestamp":"2025-05-29T09:44:45.986Z"}
+{"level":"info","message":"Client connected: r_U5k9JNLLJRdU8dAAAF","timestamp":"2025-05-29T09:44:50.053Z"}
+{"level":"info","message":"Client r_U5k9JNLLJRdU8dAAAF joined order 12345","timestamp":"2025-05-29T09:44:50.859Z"}
+{"level":"info","message":"Fetched 769911 nodes and 191764 ways","timestamp":"2025-05-29T09:45:06.510Z"}
+{"level":"info","message":"Finding nearest nodes for start: {\"latitude\":17.3943,\"longitude\":78.4683}, end: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:45:06.510Z"}
+{"level":"warn","message":"Path reconstruction exceeded max iterations","timestamp":"2025-05-29T09:45:21.960Z"}
+{"level":"info","message":"Route updated for order 12345: 2 nodes","timestamp":"2025-05-29T09:45:21.961Z"}
+{"level":"info","message":"Order 12345 placed and assigned to dp1","timestamp":"2025-05-29T09:45:21.961Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-29T09:49:22.828Z"}
+{"level":"info","message":"Client connected: CBQRTZxAhxdEtSRxAAAC","timestamp":"2025-05-29T09:49:23.920Z"}
+{"level":"info","message":"Client connected: _LuUvkVpU0Fj7A-RAAAD","timestamp":"2025-05-29T09:49:24.249Z"}
+{"level":"info","message":"Client connected: O-LSHsor3eu2xd_gAAAF","timestamp":"2025-05-29T09:49:28.109Z"}
+{"level":"info","message":"Client O-LSHsor3eu2xd_gAAAF joined 12345","timestamp":"2025-05-29T09:49:28.624Z"}
+{"level":"info","message":"Client connected: CyIHxLe5HjKeKUC2AAAH","timestamp":"2025-05-29T09:49:29.651Z"}
+{"level":"info","message":"Client CyIHxLe5HjKeKUC2AAAH joined 12345","timestamp":"2025-05-29T09:49:30.251Z"}
+{"level":"info","message":"Calculating route for order 12345: delivery={\"latitude\":17.3943,\"longitude\":78.4683}, customer={\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:49:47.992Z"}
+{"level":"info","message":"Fetching road network: center=17.3893,78.4633, radius=126176m","timestamp":"2025-05-29T09:49:47.993Z"}
+{"level":"info","message":"Customer update for 12345: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:49:49.031Z"}
+{"level":"info","message":"Client disconnected: CyIHxLe5HjKeKUC2AAAH","timestamp":"2025-05-29T09:50:00.354Z"}
+{"level":"info","message":"Client connected: LyAGojSD8sQf9t5_AAAJ","timestamp":"2025-05-29T09:50:04.330Z"}
+{"level":"info","message":"Client LyAGojSD8sQf9t5_AAAJ joined 12345","timestamp":"2025-05-29T09:50:04.811Z"}
+{"level":"info","message":"Client disconnected: CBQRTZxAhxdEtSRxAAAC","timestamp":"2025-05-29T09:50:08.682Z"}
+{"level":"info","message":"Client disconnected: _LuUvkVpU0Fj7A-RAAAD","timestamp":"2025-05-29T09:50:08.835Z"}
+{"level":"info","message":"Fetched 1953069 nodes, 293551 ways","timestamp":"2025-05-29T09:50:15.929Z"}
+{"level":"info","message":"A* start: {\"latitude\":17.3943,\"longitude\":78.4683}, end: {\"latitude\":17.3843,\"longitude\":78.4583}","timestamp":"2025-05-29T09:50:15.929Z"}
+{"level":"warn","message":"Path exceeded max iterations","timestamp":"2025-05-29T09:50:43.671Z"}
+{"level":"info","message":"Route emitted for order 12345: 2 nodes","timestamp":"2025-05-29T09:50:43.672Z"}
+{"level":"info","message":"Order 12345 placed","timestamp":"2025-05-29T09:50:43.672Z"}
+{"level":"info","message":"Client disconnected: O-LSHsor3eu2xd_gAAAF","timestamp":"2025-05-29T09:50:43.675Z"}
+{"level":"info","message":"Client connected: b9NPi3XQLJaisH0EAAAL","timestamp":"2025-05-29T09:50:44.006Z"}
+{"level":"info","message":"Client b9NPi3XQLJaisH0EAAAL joined 12345","timestamp":"2025-05-29T09:50:44.326Z"}
+{"level":"info","message":"Client disconnected: b9NPi3XQLJaisH0EAAAL","timestamp":"2025-05-29T10:00:03.053Z"}
+{"level":"info","message":"Client connected: 3zoFNaeVjagf5w9gAAAN","timestamp":"2025-05-29T10:00:12.537Z"}
+{"level":"info","message":"Client 3zoFNaeVjagf5w9gAAAN joined 12345","timestamp":"2025-05-29T10:00:12.966Z"}
+{"level":"info","message":"Client disconnected: LyAGojSD8sQf9t5_AAAJ","timestamp":"2025-05-29T10:00:20.600Z"}
+{"level":"info","message":"Client disconnected: 3zoFNaeVjagf5w9gAAAN","timestamp":"2025-05-29T10:00:36.720Z"}
+{"level":"info","message":"Client connected: bxUWQGx6HXlXeotLAAAP","timestamp":"2025-05-29T10:02:17.013Z"}
+{"level":"info","message":"Client bxUWQGx6HXlXeotLAAAP joined 12345","timestamp":"2025-05-29T10:02:18.057Z"}
+{"level":"info","message":"Client disconnected: bxUWQGx6HXlXeotLAAAP","timestamp":"2025-05-29T10:03:26.959Z"}
+{"level":"info","message":"Client connected: luDc9QZp8wJVg_NoAAAR","timestamp":"2025-05-29T10:05:30.299Z"}
+{"level":"info","message":"Client luDc9QZp8wJVg_NoAAAR joined 12345","timestamp":"2025-05-29T10:05:31.138Z"}
+{"level":"info","message":"Client disconnected: luDc9QZp8wJVg_NoAAAR","timestamp":"2025-05-29T10:05:35.889Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-30T04:52:49.002Z"}
+{"level":"info","message":"Client connected: 4LsUzPBq6msg-E2lAAAB","timestamp":"2025-05-30T04:52:50.165Z"}
+{"level":"info","message":"Client connected: D0V-thLZ1IcKdCTqAAAD","timestamp":"2025-05-30T04:52:50.759Z"}
+{"level":"info","message":"Client disconnected: D0V-thLZ1IcKdCTqAAAD","timestamp":"2025-05-30T04:59:40.377Z"}
+{"level":"info","message":"Client disconnected: 4LsUzPBq6msg-E2lAAAB","timestamp":"2025-05-30T04:59:41.186Z"}
+{"level":"info","message":"Client connected: DmW8lYsbvPq-sVk0AAAF","timestamp":"2025-05-30T04:59:44.287Z"}
+{"level":"info","message":"Client connected: vO_VWArvkpZUZVGzAAAH","timestamp":"2025-05-30T05:00:05.552Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-30T05:24:20.138Z"}
+{"level":"info","message":"Client connected: K9mLXldFp1Al7fvZAAAB","timestamp":"2025-05-30T05:24:22.057Z"}
+{"level":"info","message":"Client disconnected: K9mLXldFp1Al7fvZAAAB","timestamp":"2025-05-30T05:24:53.768Z"}
+{"level":"info","message":"Client connected: c9I9EnqpQFrXrb8wAAAD","timestamp":"2025-05-30T05:24:56.263Z"}
+{"level":"info","message":"Client c9I9EnqpQFrXrb8wAAAD joined order 12345","timestamp":"2025-05-30T05:24:56.649Z"}
+{"level":"info","message":"Client connected: ZxBudaX7u4gd8xEaAAAF","timestamp":"2025-05-30T05:25:02.030Z"}
+{"level":"info","message":"Client disconnected: ZxBudaX7u4gd8xEaAAAF","timestamp":"2025-05-30T05:25:03.060Z"}
+{"level":"info","message":"Client connected: PseOwgeYbCuDQjqDAAAH","timestamp":"2025-05-30T05:25:18.529Z"}
+{"level":"info","message":"Client PseOwgeYbCuDQjqDAAAH joined order 12345","timestamp":"2025-05-30T05:25:18.931Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-30T05:25:23.582Z"}
+{"level":"info","message":"Client disconnected: c9I9EnqpQFrXrb8wAAAD","timestamp":"2025-05-30T05:25:41.761Z"}
+{"level":"info","message":"Client disconnected: PseOwgeYbCuDQjqDAAAH","timestamp":"2025-05-30T05:29:46.621Z"}
+{"level":"info","message":"Client connected: sLxx7jvCcwuStDn5AAAJ","timestamp":"2025-05-30T05:29:52.031Z"}
+{"level":"info","message":"Client sLxx7jvCcwuStDn5AAAJ joined order 12345","timestamp":"2025-05-30T05:29:52.434Z"}
+{"level":"info","message":"Client disconnected: sLxx7jvCcwuStDn5AAAJ","timestamp":"2025-05-30T05:31:40.171Z"}
+{"level":"info","message":"Client connected: 3Swrvs4uRJZiQKcBAAAL","timestamp":"2025-05-30T05:31:43.610Z"}
+{"level":"info","message":"Client 3Swrvs4uRJZiQKcBAAAL joined order 12345","timestamp":"2025-05-30T05:31:44.793Z"}
+{"level":"info","message":"Client connected: AV6IcVwxgI5OuEOMAAAN","timestamp":"2025-05-30T05:55:14.122Z"}
+{"level":"info","message":"Client AV6IcVwxgI5OuEOMAAAN joined order 12345","timestamp":"2025-05-30T05:55:15.340Z"}
+{"level":"info","message":"Client connected: q3JTjZyPRFaN7qhvAAAP","timestamp":"2025-05-30T05:58:10.784Z"}
+{"level":"info","message":"Client q3JTjZyPRFaN7qhvAAAP joined order 12345","timestamp":"2025-05-30T05:58:12.021Z"}
+{"level":"info","message":"Client disconnected: 3Swrvs4uRJZiQKcBAAAL","timestamp":"2025-05-30T06:10:33.561Z"}
+{"level":"info","message":"Client connected: Q1GJHDilGmSxa72_AAAR","timestamp":"2025-05-30T06:10:38.002Z"}
+{"level":"info","message":"Client Q1GJHDilGmSxa72_AAAR joined order 12345","timestamp":"2025-05-30T06:10:38.580Z"}
+{"level":"info","message":"Client connected: kD11Ed8P1TEGnLHLAAAT","timestamp":"2025-05-30T06:11:57.223Z"}
+{"level":"info","message":"Client kD11Ed8P1TEGnLHLAAAT joined order 12345","timestamp":"2025-05-30T06:11:57.600Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:13:03.144Z"}
+{"level":"info","message":"Client disconnected: AV6IcVwxgI5OuEOMAAAN","timestamp":"2025-05-30T06:13:04.812Z"}
+{"level":"info","message":"Client disconnected: q3JTjZyPRFaN7qhvAAAP","timestamp":"2025-05-30T06:13:05.000Z"}
+{"level":"info","message":"Client disconnected: Q1GJHDilGmSxa72_AAAR","timestamp":"2025-05-30T06:13:05.294Z"}
+{"level":"info","message":"Client disconnected: kD11Ed8P1TEGnLHLAAAT","timestamp":"2025-05-30T06:13:05.305Z"}
+{"level":"info","message":"Client connected: ceWs-9BSIS3Y4UTCAAAV","timestamp":"2025-05-30T06:13:08.686Z"}
+{"level":"info","message":"Client connected: x5cJ4TZRXlJxpfmZAAAX","timestamp":"2025-05-30T06:13:09.634Z"}
+{"level":"info","message":"Client ceWs-9BSIS3Y4UTCAAAV joined order 12345","timestamp":"2025-05-30T06:13:09.754Z"}
+{"level":"info","message":"Client x5cJ4TZRXlJxpfmZAAAX joined order 12345","timestamp":"2025-05-30T06:13:10.040Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:13:23.364Z"}
+{"level":"info","message":"Client connected: CHaL-DiAKjomOLo1AAAZ","timestamp":"2025-05-30T06:14:38.693Z"}
+{"level":"info","message":"Client connected: m6MB1cV4QFdisDhRAAAb","timestamp":"2025-05-30T06:15:01.199Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:16:14.654Z"}
+{"level":"info","message":"Client disconnected: m6MB1cV4QFdisDhRAAAb","timestamp":"2025-05-30T06:21:16.209Z"}
+{"level":"info","message":"Client disconnected: x5cJ4TZRXlJxpfmZAAAX","timestamp":"2025-05-30T06:21:16.210Z"}
+{"level":"info","message":"Client disconnected: CHaL-DiAKjomOLo1AAAZ","timestamp":"2025-05-30T06:21:16.221Z"}
+{"level":"info","message":"Client connected: wRRv2fMw9k43kgD8AAAd","timestamp":"2025-05-30T06:21:51.292Z"}
+{"level":"info","message":"Client connected: dK9gOA3eTPiGBwWOAAAf","timestamp":"2025-05-30T06:23:53.426Z"}
+{"level":"info","message":"Client dK9gOA3eTPiGBwWOAAAf joined order 12345","timestamp":"2025-05-30T06:23:53.868Z"}
+{"level":"info","message":"Client connected: abmum5CR-CZY8lL-AAAh","timestamp":"2025-05-30T06:24:49.524Z"}
+{"level":"info","message":"Client abmum5CR-CZY8lL-AAAh joined order 12345","timestamp":"2025-05-30T06:24:49.756Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:25:22.169Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:25:22.386Z"}
+{"level":"info","message":"Client connected: 0gBH-iQ08mBo4PxjAAAk","timestamp":"2025-05-30T06:25:59.052Z"}
+{"level":"info","message":"Client connected: 6Moefro881aZmGLrAAAl","timestamp":"2025-05-30T06:25:59.053Z"}
+{"level":"info","message":"Client disconnected: 6Moefro881aZmGLrAAAl","timestamp":"2025-05-30T06:27:23.979Z"}
+{"level":"info","message":"Client disconnected: abmum5CR-CZY8lL-AAAh","timestamp":"2025-05-30T06:27:23.983Z"}
+{"level":"info","message":"Client disconnected: ceWs-9BSIS3Y4UTCAAAV","timestamp":"2025-05-30T06:27:23.989Z"}
+{"level":"info","message":"Client disconnected: dK9gOA3eTPiGBwWOAAAf","timestamp":"2025-05-30T06:27:23.995Z"}
+{"level":"info","message":"Client disconnected: 0gBH-iQ08mBo4PxjAAAk","timestamp":"2025-05-30T06:27:24.002Z"}
+{"level":"info","message":"Client disconnected: wRRv2fMw9k43kgD8AAAd","timestamp":"2025-05-30T06:27:52.660Z"}
+{"level":"info","message":"Client connected: oBHKnj1pz-yaAE9iAAAs","timestamp":"2025-05-30T06:27:55.341Z"}
+{"level":"info","message":"Client connected: v_kDVXFNiaZCCQn9AAAu","timestamp":"2025-05-30T06:27:55.504Z"}
+{"level":"info","message":"Client connected: qZjbfYxwBxYAAOXDAAAv","timestamp":"2025-05-30T06:27:55.522Z"}
+{"level":"info","message":"Client connected: MMkE559pbEfY1IVuAAAw","timestamp":"2025-05-30T06:27:55.690Z"}
+{"level":"info","message":"Client connected: _mupCSJSGxjAUWsjAAAx","timestamp":"2025-05-30T06:27:55.751Z"}
+{"level":"info","message":"Client connected: WDGNhjqd4OQobj4YAAAy","timestamp":"2025-05-30T06:27:56.053Z"}
+{"level":"info","message":"Client connected: aIVXrfmXk0B951eYAAAz","timestamp":"2025-05-30T06:27:56.105Z"}
+{"level":"info","message":"Client disconnected: v_kDVXFNiaZCCQn9AAAu","timestamp":"2025-05-30T06:27:58.579Z"}
+{"level":"info","message":"Client disconnected: qZjbfYxwBxYAAOXDAAAv","timestamp":"2025-05-30T06:27:58.580Z"}
+{"level":"info","message":"Client disconnected: MMkE559pbEfY1IVuAAAw","timestamp":"2025-05-30T06:27:58.598Z"}
+{"level":"info","message":"Client disconnected: aIVXrfmXk0B951eYAAAz","timestamp":"2025-05-30T06:27:58.598Z"}
+{"level":"info","message":"Client disconnected: _mupCSJSGxjAUWsjAAAx","timestamp":"2025-05-30T06:27:58.608Z"}
+{"level":"info","message":"Client disconnected: WDGNhjqd4OQobj4YAAAy","timestamp":"2025-05-30T06:27:58.613Z"}
+{"level":"info","message":"Client connected: rbCAMgVvcAi_-aH-AAA1","timestamp":"2025-05-30T06:28:01.745Z"}
+{"level":"info","message":"Client disconnected: oBHKnj1pz-yaAE9iAAAs","timestamp":"2025-05-30T06:28:39.968Z"}
+{"level":"info","message":"Client connected: dGV_M9VJVQGXOMLFAAA3","timestamp":"2025-05-30T06:28:59.289Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-30T06:29:21.302Z"}
+{"level":"info","message":"Client connected: --dB0T-wCyh6YqZuAAAB","timestamp":"2025-05-30T06:29:22.251Z"}
+{"level":"info","message":"Client connected: eQAkR5nV40EUcCHMAAAD","timestamp":"2025-05-30T06:29:24.617Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:29:42.912Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:29:43.228Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:29:43.228Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:29:43.229Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:29:43.229Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:29:43.229Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-30T06:30:07.770Z"}
+{"level":"info","message":"Client connected: Ne-YfKm0He-HTVwAAAAB","timestamp":"2025-05-30T06:30:08.262Z"}
+{"level":"info","message":"Client connected: PLjK5sfNEtukKFCcAAAD","timestamp":"2025-05-30T06:30:09.017Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:30:19.769Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:30:19.891Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:30:19.892Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:30:19.892Z"}
+{"level":"info","message":"Client disconnected: Ne-YfKm0He-HTVwAAAAB","timestamp":"2025-05-30T06:30:53.158Z"}
+{"level":"info","message":"Client connected: hoaRovJpEvlgbufPAAAF","timestamp":"2025-05-30T06:30:56.115Z"}
+{"level":"info","message":"Client disconnected: hoaRovJpEvlgbufPAAAF","timestamp":"2025-05-30T06:32:14.249Z"}
+{"level":"info","message":"Client disconnected: PLjK5sfNEtukKFCcAAAD","timestamp":"2025-05-30T06:32:15.024Z"}
+{"level":"info","message":"Client connected: Oog-geyzBXKfJzLXAAAI","timestamp":"2025-05-30T06:32:17.652Z"}
+{"level":"info","message":"Client connected: 5hT3DN3Nrju9e1NEAAAJ","timestamp":"2025-05-30T06:32:17.653Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:32:25.411Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:32:25.507Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:33:35.494Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:33:35.664Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:33:35.664Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:33:35.664Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:33:35.664Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:33:35.664Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:33:35.665Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:33:35.665Z"}
+{"level":"info","message":"Client disconnected: Oog-geyzBXKfJzLXAAAI","timestamp":"2025-05-30T06:35:31.920Z"}
+{"level":"info","message":"Client disconnected: 5hT3DN3Nrju9e1NEAAAJ","timestamp":"2025-05-30T06:35:32.658Z"}
+{"level":"info","message":"Client connected: 8Ch8RzVL5sMg9LukAAAM","timestamp":"2025-05-30T06:35:36.719Z"}
+{"level":"info","message":"Client connected: 9O1-cpIaO6koObocAAAN","timestamp":"2025-05-30T06:35:36.986Z"}
+{"level":"info","message":"Client disconnected: 8Ch8RzVL5sMg9LukAAAM","timestamp":"2025-05-30T06:36:21.332Z"}
+{"level":"info","message":"Client disconnected: 9O1-cpIaO6koObocAAAN","timestamp":"2025-05-30T06:36:21.525Z"}
+{"level":"info","message":"Client connected: guPVnnPMCq9DTY2cAAAP","timestamp":"2025-05-30T06:36:30.563Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2025-05-30T06:36:40.672Z"}
+{"level":"info","message":"Client connected: AZ7Uiy7f4qEyCJ2hAAAC","timestamp":"2025-05-30T06:36:41.017Z"}
+{"level":"info","message":"Client connected: 4w9gT3Hdgey82zr-AAAD","timestamp":"2025-05-30T06:36:41.314Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:36:51.473Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:36:51.542Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:36:51.543Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:36:51.543Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:36:51.543Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:36:51.544Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:36:51.544Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:36:51.544Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:36:51.544Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:36:51.544Z"}
+{"level":"info","message":"Client connected: vuPqwDgTjrguvQebAAAG","timestamp":"2025-05-30T06:37:32.011Z"}
+{"level":"info","message":"Client connected: BIJ1ebbAJNCT3WfsAAAH","timestamp":"2025-05-30T06:37:32.198Z"}
+{"level":"info","message":"Client disconnected: 4w9gT3Hdgey82zr-AAAD","timestamp":"2025-05-30T06:37:35.686Z"}
+{"level":"info","message":"Client disconnected: BIJ1ebbAJNCT3WfsAAAH","timestamp":"2025-05-30T06:37:35.756Z"}
+{"level":"info","message":"Client connected: EH-JBUMbChUaqJDzAAAJ","timestamp":"2025-05-30T06:37:38.479Z"}
+{"level":"info","message":"Client connected: C-MUWLAJutVOEe1TAAAL","timestamp":"2025-05-30T06:37:56.313Z"}
+{"level":"info","message":"Client connected: SZwF_NGDy32auj-YAAAN","timestamp":"2025-05-30T06:38:03.179Z"}
+{"level":"info","message":"Client disconnected: EH-JBUMbChUaqJDzAAAJ","timestamp":"2025-05-30T06:38:05.626Z"}
+{"level":"info","message":"Client disconnected: C-MUWLAJutVOEe1TAAAL","timestamp":"2025-05-30T06:38:05.697Z"}
+{"level":"info","message":"Client disconnected: SZwF_NGDy32auj-YAAAN","timestamp":"2025-05-30T06:38:05.850Z"}
+{"level":"info","message":"Client connected: 88jDlknoZH5kYZ98AAAP","timestamp":"2025-05-30T06:38:14.116Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-30T06:38:15.239Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:38:15.716Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:38:15.716Z"}
+{"level":"info","message":"Client disconnected: vuPqwDgTjrguvQebAAAG","timestamp":"2025-05-30T06:38:16.719Z"}
+{"level":"info","message":"Client connected: t3QksJNHBQfX_G5oAAAR","timestamp":"2025-05-30T06:38:47.997Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-30T06:38:55.289Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:38:55.347Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:38:55.347Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-30T06:39:21.108Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:39:21.235Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:39:21.235Z"}
+{"level":"info","message":"Client connected: rP_oKNmv3PuLpJXYAAAT","timestamp":"2025-05-30T06:40:32.289Z"}
+{"level":"info","message":"Client disconnected: t3QksJNHBQfX_G5oAAAR","timestamp":"2025-05-30T06:40:32.872Z"}
+{"level":"info","message":"Client disconnected: AZ7Uiy7f4qEyCJ2hAAAC","timestamp":"2025-05-30T06:40:33.064Z"}
+{"level":"info","message":"Client connected: _2T1WFDfW3YuFflxAAAV","timestamp":"2025-05-30T06:40:37.483Z"}
+{"level":"info","message":"Client disconnected: rP_oKNmv3PuLpJXYAAAT","timestamp":"2025-05-30T06:41:17.137Z"}
+{"coords":{"latitude":17.3843,"longitude":78.4583},"level":"info","message":"Customer location update:","orderId":"12345","timestamp":"2025-05-30T06:51:57.357Z"}
+{"level":"info","message":"Client disconnected: _2T1WFDfW3YuFflxAAAV","timestamp":"2025-05-30T06:51:57.494Z"}
+{"level":"warn","message":"Invalid delivery location data:","timestamp":"2025-05-30T06:51:57.523Z"}
+{"level":"warn","message":"Invalid orderId:","timestamp":"2025-05-30T06:51:57.524Z"}
+{"level":"info","message":"Client disconnected: 88jDlknoZH5kYZ98AAAP","timestamp":"2025-05-30T06:51:58.920Z"}
+{"level":"info","message":"Client connected: bQKuYIAni8c6ckLYAAAY","timestamp":"2025-05-30T06:52:03.703Z"}
+{"level":"info","message":"Client connected: 7N-LSWVFZlrA_g_qAAAZ","timestamp":"2025-05-30T06:52:03.744Z"}
