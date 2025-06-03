@@ -1,50 +1,4 @@
-const express = require('express');
-const http = require('http');
-const socketIo = require('socket.io');
-const winston = require('winston');
-const compression = require('compression');
-const rateLimit = require('express-rate-limit');
-const axios = require('axios');
-const geolib = require('geolib');
 
-const app = express();
-const server = http.createServer(app);
-const io = socketIo(server, {
-  cors: {
-    origin: '*',
-    methods: ['GET', 'POST'],
-  },
-});
-let deliveryCoords = null;
-let customerCoords = null;
-const logger = winston.createLogger({
-  level: 'info',
-  format: winston.format.combine(
-    winston.format.timestamp(),
-    winston.format.json()
-  ),
-  transports: [
-    new winston.transports.Console(),
-    new winston.transports.File({ filename: 'server.log' }),
-  ],
-});
-
-const limiter = rateLimit({
-  windowMs: 1000,
-  max: 5,
-});
-app.use(limiter);
-app.use(compression());
-
-const orderData = new Map();
-
-const validateCoords = (coords) => {
-  if (!coords || typeof coords.latitude !== 'number' || typeof coords.longitude !== 'number') {
-    logger.warn('Invalid coordinates:', coords);
-    return false;
-  }
-  return coords.latitude >= -90 && coords.latitude <= 90 && coords.longitude >= -180 && coords.longitude <= 180;
-};
 
 // const fetchRoadNetwork = async (minLat, minLon, maxLat, maxLon, retries = 3) => {
 //   try {
@@ -259,18 +213,7 @@ const validateCoords = (coords) => {
 //   logger.info(`Route emitted for order ${orderId}: ${route.length} nodes`);
 // };
 
-io.on('connection', (socket) => {
-  logger.info(`Client connected: ${socket.id}`);
-    socket.on('deliveryLocation', (coords) => {
-    deliveryCoords = coords;
-    logger.info('🚚Delivery coords received:', deliveryCoords);
-    socket.broadcast.emit('deliveryLocation', deliveryCoords); // Send to customer
-  });
-    socket.on('customerLocation', (coords) => {
-    customerCoords = coords;
-    logger.info('🏠Customer coords received:', customerCoords);
-    socket.broadcast.emit('customerLocation', customerCoords); // Send to delivery
-  });
+
   // socket.on('placeOrder', async (data) => {
   //   if (!data.orderId || !validateCoords(data.coords)) {
   //     logger.warn('Invalid place order:', data);
@@ -341,53 +284,193 @@ io.on('connection', (socket) => {
   //     logger.info(`Order ${data.orderId} has been delivered and removed from orderData`);
   //   }
   // });
+const express = require('express');
+const http = require('http');
+const socketIo = require('socket.io');
+const winston = require('winston');
+const compression = require('compression');
+const rateLimit = require('express-rate-limit');
+const axios = require('axios');
 
-  socket.on('joinOrder', async(orderId) => {
-    if (typeof orderId !== 'string') {
-      logger.warn('Invalid orderId:', orderId);
+const app = express();
+const server = http.createServer(app);
+const io = socketIo(server, {
+  cors: {
+    origin: '*',
+    methods: ['GET', 'POST'],
+  },
+});
+
+// Store connected clients
+const connectedClients = {
+  delivery: null,
+  customer: null
+};
+
+// Store coordinates
+let deliveryCoords = null;
+let customerCoords = null;
+
+const logger = winston.createLogger({
+  level: 'info',
+  format: winston.format.combine(
+    winston.format.timestamp(),
+    winston.format.json()
+  ),
+  transports: [
+    new winston.transports.Console(),
+    new winston.transports.File({ filename: 'server.log' }),
+  ],
+});
+
+const limiter = rateLimit({
+  windowMs: 1000,
+  max: 10,
+});
+
+app.use(limiter);
+app.use(compression());
+
+const validateCoords = (coords) => {
+  if (!coords || typeof coords.latitude !== 'number' || typeof coords.longitude !== 'number') {
+    logger.warn('Invalid coordinates:', coords);
+    return false;
+  }
+  return coords.latitude >= -90 && coords.latitude <= 90 && coords.longitude >= -180 && coords.longitude <= 180;
+};
+
+io.on('connection', (socket) => {
+  logger.info(`Client connected: ${socket.id}`);
+
+  // Handle delivery person connection
+  socket.on('joinAsDelivery', () => {
+    connectedClients.delivery = socket.id;
+    socket.join('delivery');
+    logger.info(`Delivery person joined: ${socket.id}`);
+    socket.emit('joinedAsDelivery', { success: true });
+  });
+
+  // Handle customer connection
+  socket.on('joinAsCustomer', () => {
+    connectedClients.customer = socket.id;
+    socket.join('customer');
+    logger.info(`Customer joined: ${socket.id}`);
+    socket.emit('joinedAsCustomer', { success: true });
+  });
+
+  // Handle delivery location updates
+  socket.on('deliveryLocation', (data) => {
+    if (!validateCoords(data.deliveryCoords)) {
+      socket.emit('error', { message: 'Invalid delivery coordinates' });
       return;
     }
-    socket.join(orderId);
-    logger.info(`Client ${socket.id} joined ${orderId}`);
-        if (deliveryCoords && customerCoords) {
-          console.log('Connecting delivery and customer');
-          try {
-            // Fetch route from OpenRouteService
-            const response = await axios.post(
-              'https://api.openrouteservice.org/v2/directions/driving-car/geojson',
-              {
-                coordinates: [
-                  [customerCoords.longitude, customerCoords.latitude],
-                  [deliveryCoords.longitude, deliveryCoords.latitude]
-                ],
-                instructions: false
-              },
-              {
-                headers: {
-                  'Authorization': 'Bearer 5b3ce3597851110001cf62486d2c2c7b8ea443aeb5611f95c23fbdd5', // Replace with your API key
-                  'Content-Type': 'application/json',
-                  'Accept': 'application/json, application/geo+json'
-                }
-              }
-            );
     
-            if (response.status !== 200) {
-              throw new Error(`OpenRouteService API error: ${response.statusText}`);
+    deliveryCoords = data.deliveryCoords;
+    logger.info('Delivery location updated:', deliveryCoords);
+    
+    // Send to customer
+    socket.to('customer').emit('deliveryLocation', deliveryCoords);
+    
+    // Try to connect if both coordinates are available
+    tryConnect();
+  });
+
+  // Handle customer location updates
+  socket.on('customerLocation', (data) => {
+    if (!validateCoords(data.customerCoords)) {
+      socket.emit('error', { message: 'Invalid customer coordinates' });
+      return;
+    }
+    
+    customerCoords = data.customerCoords;
+    logger.info('Customer location updated:', customerCoords);
+    
+    // Send to delivery
+    socket.to('delivery').emit('customerLocation', customerCoords);
+    
+    // Try to connect if both coordinates are available
+    tryConnect();
+  });
+
+  // Try to establish connection between delivery and customer
+  const tryConnect = async () => {
+    if (deliveryCoords && customerCoords && connectedClients.delivery && connectedClients.customer) {
+      try {
+        logger.info('Attempting to connect delivery and customer with route calculation');
+        // Fetch route from OpenRouteService
+        const response = await axios.post(
+          'https://api.openrouteservice.org/v2/directions/driving-car/geojson',
+          {
+            coordinates: [
+              [deliveryCoords.longitude, deliveryCoords.latitude],
+              [customerCoords.longitude, customerCoords.latitude]
+            ],
+            instructions: false
+          },
+          {
+            headers: {
+              'Authorization': 'Bearer 5b3ce3597851110001cf62486d2c2c7b8ea443aeb5611f95c23fbdd5',
+              'Content-Type': 'application/json',
+              'Accept': 'application/json, application/geo+json'
             }
-    
-            const routeCoords = response.data.features[0].geometry.coordinates.map(([lng, lat]) => ({
-              latitude: lat,
-              longitude: lng
-            }));
-    
-            // Emit connection and route to both clients
-            io.emit('connected', { deliveryCoords, customerCoords, routeCoords });
-          } catch (error) {
-            socket.emit('error', `Failed to fetch route: ${error.message}`);
           }
-        } else {
-          socket.emit('error', 'Both users must share coordinates before connecting.');
+        );
+
+        if (response.status !== 200) {
+          throw new Error(`OpenRouteService API error: ${response.statusText}`);
         }
+
+        const routeCoords = response.data.features[0].geometry.coordinates.map(([lng, lat]) => ({
+          latitude: lat,
+          longitude: lng
+        }));
+        // Calculate estimated time (rough calculation)
+
+        // Emit connection success to both clients
+        io.emit('connected', { 
+          deliveryCoords, 
+          customerCoords, 
+          routeCoords,
+          orderStatus: 'In Transit'
+        });
+
+        logger.info('Successfully connected delivery and customer');
+      } catch (error) {
+        logger.error('Failed to fetch route:', error.message);
+        io.emit('error', { message: `Failed to establish connection: ${error.message}` });
+      }
+    }
+  };
+
+  // Handle order status updates
+  socket.on('updateOrderStatus', (data) => {
+    const { status, eta } = data;
+    io.emit('orderStatusUpdate', { status, eta });
+    logger.info(`Order status updated: ${status}`);
+  });
+
+  socket.on('disconnect', () => {
+    logger.info(`Client disconnected: ${socket.id}`);
+    
+    // Clean up connected clients
+    if (connectedClients.delivery === socket.id) {
+      connectedClients.delivery = null;
+      deliveryCoords = null;
+      logger.info('Delivery person disconnected');
+    }
+    
+    if (connectedClients.customer === socket.id) {
+      connectedClients.customer = null;
+      customerCoords = null;
+      logger.info('Customer disconnected');
+    }
+  });
+});
+
+const PORT = process.env.PORT || 8080;
+server.listen(PORT, () => {
+  logger.info(`Server running on port ${PORT}`);
+});
     // const order = orderData.get(orderId);
     // if (order) {
     //   socket.emit('orderAssigned', {
@@ -398,19 +481,3 @@ io.on('connection', (socket) => {
     //   });
     //   socket.emit('orderStatusUpdate', { orderId, status: order.status || 'Assigned' });
     // }
-  });
-
-  socket.on('disconnect', () => {
-    logger.info(`Client disconnected: ${socket.id}`);
-    socket.rooms.forEach((room) => {
-      if (room !== socket.id) {
-        socket.leave(room);
-        logger.info(`Client ${socket.id} left room ${room}`);
-      }
-    });
-  });
-});
-const PORT = 8080;
-server.listen(PORT, () => {
-  logger.info(`Server running on port ${PORT}`);
-});
