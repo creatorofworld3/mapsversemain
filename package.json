@@ -5,7 +5,9 @@
     "express": "^5.1.0",
     "express-rate-limit": "^7.5.0",
     "geolib": "^3.3.4",
+    "react": "^19.1.0",
     "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
     "winston": "^3.17.0"
   }
 }
